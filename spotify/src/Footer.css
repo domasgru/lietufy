@@ -1,0 +1,31 @@
+footer{
+    height: 100px;
+    background-image: linear-gradient(to top, #aba9af 0%, #efbfe1 100%);
+  
+    
+    
+}
+.spotify{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+footer .fa-spotify{
+    margin-left: 5px;
+    color: white;
+}
+footer span{
+    font-size: 23px;
+}
+footer div{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 8px;
+    color: white;
+}
+@media (max-width: 680px){
+    footer div{
+    font-size: 10px;
+    }
+}

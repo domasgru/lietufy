@@ -1,0 +1,285 @@
+
+*,
+html,
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+html{
+  scroll-behavior: smooth;
+}
+@media (max-width: 1400px) and (min-width: 1100px){
+  html{
+  zoom: 75%;
+}
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  min-height: 120vh;
+  background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898; 
+  background-blend-mode: multiply,multiply;
+  position: relative;
+  font-weight: 400;
+}
+a, a:visited{
+  color: white;
+  text-decoration: none;
+}
+#main{
+  position: relative;
+}
+.chart{
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    margin: 0 auto;
+    margin-bottom: 105px;
+    width: 1100px;
+}
+/*.chartNav{*/
+/*  position: relative;*/
+/*  display: flex;*/
+/*  color: white;*/
+/*  font-size: 19px;*/
+/*  backface-visibility: hidden;*/
+  
+/*}*/
+/*.chartNav .nav{*/
+/*  background: transparent;*/
+/*  height: 40px;*/
+/*  width: 120px;*/
+/*  border-radius: 19px 19px 0px 0px;*/
+/*  text-align: center;*/
+/*  padding-top: 5px;*/
+/*  position: relative;*/
+/*  cursor: pointer;*/
+/*  -webkit-box-shadow: 0px 2px 17px 0px rgba(0,0,0,0.75);*/
+/*  -moz-box-shadow: 0px 2px 17px 0px rgba(0,0,0,0.75);*/
+/*  box-shadow: 0px 2px 17px 0px rgba(0,0,0,0.75);*/
+/*  transition: all .2s;*/
+/*}*/
+/*.chartNav .nav:hover{*/
+/*  background: #1b1c1d;*/
+/*}*/
+/*.chartNav div:nth-of-type(1){*/
+/*  margin-right: -7px;*/
+/*}*/
+/*.chartNav div:nth-of-type(3){*/
+/*  font-size: 12px;*/
+/*  opacity: 0.6;*/
+/*  margin-left: -7px;*/
+/*  cursor: default;*/
+/*  z-index: -1;*/
+/*}*/
+/*.chartNav span{*/
+/*  font-size: 17px;*/
+/*  position: absolute;*/
+/*  top: 15px;*/
+/*  left: 14px;*/
+/*}*/
+/*.nav.activeChartNav{*/
+/*  background: #232526;*/
+/*}*/
+#chartHipHop span{
+  position: absolute;
+  top: 22px;
+  left: 24px;
+}
+.flicker{
+  opacity:1;
+  color: #7afda4;
+  animation: flickerAnimation 1s infinite;
+}
+@keyframes flickerAnimation { /* flame pulses */
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+
+
+
+/************** Populairumo apibvrezimas **********/
+
+.popularityTerm{
+  position: absolute;
+  font-size: 11px;
+  width: 190px;
+  height: 80px;
+  bottom: 0;
+  right: 0;
+}
+.popularityTerm .intro{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 12px;
+  background: #b2cd958c;
+  backface-visibility: hidden;
+  transition: all .3s ease;
+}
+.popularityTerm .term{
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: rotateY(-180deg);
+  transition: all .3s ease;
+  backface-visibility: hidden;
+}
+.popularityTerm:hover .intro{
+  transform: rotateY(180deg);
+  
+}
+.popularityTerm:hover .term{
+  transform: rotateY(0);
+}
+
+
+.marker{
+  width: 1100px;
+  height: 15px;
+  margin: 0 auto;
+  background:repeating-linear-gradient(130deg, rgb(131, 96, 195) 60%, rgb(46, 191, 145) 63%, rgb(131, 96, 195) 71%);
+  border-radius: 10px;
+  margin-top: 105px;
+}
+.about-container{
+  width: 1100px;
+  margin: 0 auto;
+}
+.about-container h3{
+    font-size: 31px;
+    font-weight: 600;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.about-container p{
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: white;
+    background: #353738;
+    padding: 5px;
+    border-radius: 15px;
+}
+.about-container span{
+  color: #7afda4;
+}
+
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: rgba(122, 253, 164, 0.58); /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  border-radius: 50%; /* Rounded corners */
+  font-size: 40px; /* Increase font size */
+  width: 50px;
+  height: 50px;
+  padding-top: 3px;
+  animation: fade-in 1s backwards;
+}
+
+#myBtn:hover {
+  background-color: #3d3c3d; /* Add a dark-grey background on hover */
+}
+@keyframes fade-in{
+  0%{opacity: 0}
+  100%{opacity: 1}
+}
+
+@media (max-width: 1100px){
+  .marker{
+    width: 90%;
+  }
+  .about-container{
+    width: 90%;
+  }
+}
+/*********************** LOADER ICON ******************************************/
+/*.loaderBackground{*/
+/*   background: #565857;*/
+/*   display: flex;*/
+/*   justify-content: center;*/
+/*   align-items: center;*/
+/*   z-index: 1;*/
+/*}*/
+.loader-wrap{
+  min-height: 120vh;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.lds-ring {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  margin: 50px auto;
+ 
+}
+.lds-ring div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  margin: 6px;
+  border: 6px solid #fff;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: #fff transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+@media (max-width: 1130px){
+  .chart{
+    width: 100%;
+  }
+  .artistOneSong{
+    max-width: 250px;
+  }
+}
+@media (max-width: 680px){
+  .chartNav{
+    width: 95%;
+    margin: 0 auto;
+  }
+  .chartNav span{
+    font-size: 16px;
+  }
+  .popularityTerm{
+    display: none;
+  }
+  .chart{
+    margin-bottom: 20px;
+  }
+  
+}

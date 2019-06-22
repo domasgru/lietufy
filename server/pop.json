@@ -1,0 +1,6507 @@
+{
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4zbz40hlj1xjpP8npH8A8a"
+      },
+      "followers": {
+        "href": null,
+        "total": 6737
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4zbz40hlj1xjpP8npH8A8a",
+      "id": "4zbz40hlj1xjpP8npH8A8a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4d34faaed0e1f55cd269b0950c17e7596971c13a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/05256862e4162ff71afe28bf867dbcb1a57cc94e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/cf7b8541b34c6eef9a17289bbb4e3da7168b1392",
+          "width": 160
+        }
+      ],
+      "name": "Monique",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:4zbz40hlj1xjpP8npH8A8a",
+      "popularSong": [
+        "Promise",
+        "Stay With Me",
+        "Dviese"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2eixRoxo9IlBr8fz3megmH",
+        "https://open.spotify.com/album/0VjQOxMsdPrcuErEaLBuY9",
+        "https://open.spotify.com/album/68oAmPTxUDzmDu3nrny5Qr"
+      ],
+      "releaseDate": [
+        "2017-10-30",
+        "2018-01-12",
+        "2017-10-31"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/e4f81fa8c69e56ec7059265dd9565eb35a22e5f1?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/dfbe736850b9d642e72f653e653bd2351f6eeafd?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/f6738da76e44e0137015fd6342a9646062d1cdeb?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        39,
+        35,
+        31
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a3e5ceb9a7012b23c44a044b4229be8511e729dc",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6bb85297cfd737cf4c739af3a228c65007ad6cb9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/796116874c175a4fc0c02b86feba7e43eef0f831",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Moon",
+        "Justinas Jarutis",
+        "Sun"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
+      },
+      "followers": {
+        "href": null,
+        "total": 3967
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7AczdBjiNUjo4pxVVucvw1",
+      "id": "7AczdBjiNUjo4pxVVucvw1",
+      "images": [
+        {
+          "height": 348,
+          "url": "https://i.scdn.co/image/d05105e47dd8b26c6b522f54631e66f296ee3291",
+          "width": 348
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ae3ce910c9f4a49dfb14cdd6f174ca89d6895c6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3f38e79aed7c8328460b4300fb59b23bf475db87",
+          "width": 64
+        }
+      ],
+      "name": "Vaidas Baumila",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:7AczdBjiNUjo4pxVVucvw1",
+      "popularSong": [
+        "Dviese",
+        "Suknelė",
+        "Myliu"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/68oAmPTxUDzmDu3nrny5Qr",
+        "https://open.spotify.com/album/7GmAexnhVyWqT0JKUVpSD7",
+        "https://open.spotify.com/album/6eCfECc5zSWWPmwiEqv3eZ"
+      ],
+      "releaseDate": [
+        "2017-10-31",
+        "2018-04-23",
+        "2014-07-27"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/f6738da76e44e0137015fd6342a9646062d1cdeb?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/5e6297cbfc44a53182587640c89e1ada3d970214?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/88e2a26f5d545134975d8f82b479482ad95fd15d?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        31,
+        34,
+        30
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/796116874c175a4fc0c02b86feba7e43eef0f831",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/30a1ddb548678c44bf102d49325f9a50ce86b91a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0023d1ccc85b3bf2689daeb4f5c8f8298974b6c1",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Sun",
+        "Suknelė",
+        "Live Session"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1VgSXANFa4hdIMkvPQu7Bj"
+      },
+      "followers": {
+        "href": null,
+        "total": 2858
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1VgSXANFa4hdIMkvPQu7Bj",
+      "id": "1VgSXANFa4hdIMkvPQu7Bj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5b8e1b37ae8c23eaad141144ab6bf8fba239930a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b12cccd08e3283eafbba7f2556446724c4150e3c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e76ddf78b58769c1f141de858025e8c042dbb6c8",
+          "width": 64
+        }
+      ],
+      "name": "Iglė",
+      "popularity": 27,
+      "type": "artist",
+      "uri": "spotify:artist:1VgSXANFa4hdIMkvPQu7Bj",
+      "popularSong": [
+        "Tu Nemoki",
+        "Kas Bus Toliau",
+        "Leisk Bandyt"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0GHi3wmO7SDsdHrJ8auFi3",
+        "https://open.spotify.com/album/2JokNFNMraTTC4l3syAke9",
+        "https://open.spotify.com/album/4QcoynfuUDoH3LD0x4E7Z4"
+      ],
+      "releaseDate": [
+        "2018-07-24",
+        "2017-11-16",
+        "2017-08-28"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/608380bb8fa7558d579e1c2bc5d44108f021e8cf?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a45d986f2f273835bf0e024aa7b7fece8cab75fd?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/c6a8f442ecddf53fad1e55b7054622e22516f598?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        35,
+        32,
+        25
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e76ddf78b58769c1f141de858025e8c042dbb6c8",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6d45e0639a8d1fb93d0b99d0575bdd3e7e742ee9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6394090a6285419b6601ec9b2efb06660f2ff8aa",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Tu Nemoki",
+        "Kas Bus Toliau",
+        "Leisk Bandyt"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+      },
+      "followers": {
+        "href": null,
+        "total": 4218
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/56OLtN2Eqc3fMT40ehCj5d",
+      "id": "56OLtN2Eqc3fMT40ehCj5d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f5dae050104911c187ed2290e6578b1dafe0e5f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ac07527efa540fc4cfbfbb224adb50d1e7721565",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/3b31ec2cf92ac2cb46e6f3190c9d9d754d8cb5e4",
+          "width": 160
+        }
+      ],
+      "name": "Justinas Jarutis",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:56OLtN2Eqc3fMT40ehCj5d",
+      "popularSong": [
+        "Before You",
+        "Talk to Me",
+        "Tell Me Your Story"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2nvsnHmmxzwmEvn2kKe4lp",
+        "https://open.spotify.com/album/1trnHKm2UkJ0vdSIJVvMEj",
+        "https://open.spotify.com/album/0VjQOxMsdPrcuErEaLBuY9"
+      ],
+      "releaseDate": [
+        "2018-05-18",
+        "2018-10-02",
+        "2018-01-12"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/75b1dd0ae540b8b5c2873d800842976d1804c36c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/df17609225baf9189da413c39ba6c9d9b0e9b6a1?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/3712e019ccb2f1a774dab70c2b24c81d48ec230c?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        42,
+        39,
+        39
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ef48416e8d37aff2480282ccb7f6d09685652675",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dd218cb1cad28636495ffc580c3b34047b6ad402",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6bb85297cfd737cf4c739af3a228c65007ad6cb9",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Before You",
+        "Talk to Me",
+        "Justinas Jarutis"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SR1m8m4iWmMlxWFIiWSEj"
+      },
+      "followers": {
+        "href": null,
+        "total": 2566
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1SR1m8m4iWmMlxWFIiWSEj",
+      "id": "1SR1m8m4iWmMlxWFIiWSEj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/54dc5973d61f0531761e3c3d783a5541006c1793",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f6b0a8ec63ff2de9d7a87b58ff5011617eaba5d1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/430cedc70f71e42855f1634faa77f95f962e26c2",
+          "width": 64
+        }
+      ],
+      "name": "Saulius Prūsaitis",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:1SR1m8m4iWmMlxWFIiWSEj",
+      "popularSong": [
+        "Tu Nemoki",
+        "Norim šokti",
+        "39"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0U1QpKKXO20ZBNxt6fKkdg",
+        "https://open.spotify.com/album/079TrQ5NPhBzxzR8XJjdzw",
+        "https://open.spotify.com/album/0U1QpKKXO20ZBNxt6fKkdg"
+      ],
+      "releaseDate": [
+        "2018-12-10",
+        "2018-03-13",
+        "2018-12-10"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/1bc3c9ed37204543c7f3b5beadabe02097901337?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ee7ea77966844d2f0723237bdda497ad29a3d0fc?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/e062c00e6e3c586623327369c0d6ce4deef66b0b?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        25,
+        30,
+        23
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9fa77fd94bafe081266558879211e66b540c9c41",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/430cedc70f71e42855f1634faa77f95f962e26c2",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9fa77fd94bafe081266558879211e66b540c9c41",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "39",
+        "Vaikas Iš Didelės Raidės",
+        "39"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+      },
+      "followers": {
+        "href": null,
+        "total": 12137
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fuceMe1tElXcrzMaSjdcy",
+      "id": "6fuceMe1tElXcrzMaSjdcy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/da54c08c6211c28c56d77504dfcaeacbd8b42d27",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/35d6d5129d0ea5a2cc4a7f5240abc04966daa55a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/2001650de8c4b6ccf090f9a8f0da907e43b90cad",
+          "width": 160
+        }
+      ],
+      "name": "GJan",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:6fuceMe1tElXcrzMaSjdcy",
+      "popularSong": [
+        "One More Drink",
+        "Not Afraid",
+        "Melagė"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3SSWPU8Ycuo0hUpQqSGTrm",
+        "https://open.spotify.com/album/4v942gn87wHFMsjv9NZcQi",
+        "https://open.spotify.com/album/5fd1Zqt58dH8JcTNm92xfe"
+      ],
+      "releaseDate": [
+        "2015-07-25",
+        "2013-05-14",
+        "2018-11-14"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/8f4c123f7961df418ab48b409be15eff6da47f7b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/cdf9716c6458a1dc4e79e850de985a8d052f11ef?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/4c65fcecab6e7cc6f43f5ecfae6c608358ea6076?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        46,
+        41,
+        40
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9489c36ed6d96d518001328b6d188ca409f906e9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1267042f019c68780b777c611a69b544c8f5c535",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501cfcaa5f86c929d3e0c756aaa",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "One More Drink",
+        "Not Afraid",
+        "Melagė"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
+      },
+      "followers": {
+        "href": null,
+        "total": 13366
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4R7ILGBgDWUiAT1kWNe90W",
+      "id": "4R7ILGBgDWUiAT1kWNe90W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7d84abb9cef11101edad139d125fd9203b97b09a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/56602420c1dabdad4c3f520f301a1b9e0353d745",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/239bd2feb537d240da516cd90e3761d6da017804",
+          "width": 160
+        }
+      ],
+      "name": "Beatrich",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:4R7ILGBgDWUiAT1kWNe90W",
+      "popularSong": [
+        "Superstar",
+        "Good Things",
+        "About"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0eHF48xSDKBwbQtXSOiL8I",
+        "https://open.spotify.com/album/5Fr4qP7NHIgu2W1So27g8I",
+        "https://open.spotify.com/album/32Ob1v6lmIYVrze3XWMHX9"
+      ],
+      "releaseDate": [
+        "2017-07-21",
+        "2017-06-02",
+        "2017-04-21"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/84b189cfcbbd94d7c3005ba0b489f9d9dd4c662a?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/fd85a5e956aca31085386e6be547bad5e94dbaaf?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/49be27de0713f76c1d772b3bb31d51cc618f186d?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        48,
+        45,
+        43
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/39123fe4b4617a1bd0e0a73d80344b89c856da25",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b2f651642f08899fcfa74e92e322dfdc046fe650",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/049bc8a3548f0a3a608baee7c579567ee6ead146",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Superstar",
+        "Good Things",
+        "About"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hpPSRCFwK2dKOMqW4M95u"
+      },
+      "followers": {
+        "href": null,
+        "total": 2724
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hpPSRCFwK2dKOMqW4M95u",
+      "id": "2hpPSRCFwK2dKOMqW4M95u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a9a9e1f5de503af3a36dbde1b2e853a98ea6bf9e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cdf8aa3eb3e782f66bb4fff5dce0286778a22ac7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4eb080cb842c2630621cb74ffe72b1e2b90c8e1b",
+          "width": 64
+        }
+      ],
+      "name": "Vidas Bareikis",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:2hpPSRCFwK2dKOMqW4M95u",
+      "popularSong": [
+        "Ežero dugne",
+        "Pusvalanduko",
+        "Trys Kanados"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/01hM8GDZ5Q0B7vb7pJIwbL",
+        "https://open.spotify.com/album/6siHloyBBcQLmPZLLUNKgH",
+        "https://open.spotify.com/album/6EMHTmiFmL0gM4oHbUTwKz"
+      ],
+      "releaseDate": [
+        "2019-03-12",
+        "2017-11-28",
+        "2014-05-07"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/4b5787019e9d18655abaf8d2e669bb373e8d03dd?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/c48f64cb4e6ee79360305eff0c49b3d35dcd397e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b906ae3dcfba04f3dd84c26491f2b23596564313?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        43,
+        35,
+        32
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/178b9059ae622ce43a454abb9567a42a9fd16580",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4eb080cb842c2630621cb74ffe72b1e2b90c8e1b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a984915e667bd59252c8f0fd1c2d6dd9e7c3d86d",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Ežero dugne",
+        "KATUKAVAKARE?",
+        "Žmogus, Bet Šuo"
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu"
+      },
+      "followers": {
+        "href": null,
+        "total": 1460
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1wFdWxzcJOmD61tZBVk0lu",
+      "id": "1wFdWxzcJOmD61tZBVk0lu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0dd63a9ef17c594640fc9cec1ab033d4bb8102f2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/bf0142afd2472ed4594ad727ae2919d945ff4da8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/efa49a147aa62f6644335dd2515a6788de459f37",
+          "width": 160
+        }
+      ],
+      "name": "Jazzu",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify:artist:1wFdWxzcJOmD61tZBVk0lu",
+      "popularSong": [
+        "Keep It to Myself",
+        "Dumblas",
+        "Karolis"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0EGPTlQIAKxDkshGhW0Lbg",
+        "https://open.spotify.com/album/0EGPTlQIAKxDkshGhW0Lbg",
+        "https://open.spotify.com/album/0EGPTlQIAKxDkshGhW0Lbg"
+      ],
+      "releaseDate": [
+        "2019-02-13",
+        "2019-02-13",
+        "2019-02-13"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/9717d2488f64c11aac31de8e1cd682358a671cb0?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/e3ba090e71c78db12b8352db0473a333183e0c76?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/897b4b3e87a17f64b47e82f5c2ba566b802d56c6?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        48,
+        36,
+        36
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/306868c03296f9260fbf4850ab49226f368aa901",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/306868c03296f9260fbf4850ab49226f368aa901",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/306868c03296f9260fbf4850ab49226f368aa901",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Jazzu",
+        "Jazzu",
+        "Jazzu"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6CTezLRkBux4t2uCws1OUO"
+      },
+      "followers": {
+        "href": null,
+        "total": 15718
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6CTezLRkBux4t2uCws1OUO",
+      "id": "6CTezLRkBux4t2uCws1OUO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a65361f684a75a174426134d6afcc73bfdd436c1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5c25395015a556222b5423b6280d5f8755f6a45b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/850924799984d09d97e799931832957838d3e21f",
+          "width": 64
+        }
+      ],
+      "name": "Leon Somov & Jazzu",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:6CTezLRkBux4t2uCws1OUO",
+      "popularSong": [
+        "Ką Tu Su Manim Darai?",
+        "Rudens Naktis Sustojo",
+        "Lower Than the Ground"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1JVpRsImT7Fn6ikTRxFT07",
+        "https://open.spotify.com/album/1JVpRsImT7Fn6ikTRxFT07",
+        "https://open.spotify.com/album/4DtCLwzWSEaELs5tuHIRpf"
+      ],
+      "releaseDate": [
+        "2015-07-27",
+        "2015-07-27",
+        "2013-11-04"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/18960d9912a6559f63376d81d37455469619ebb6?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/6e6e21152bc0d985694b010b95bd86e498b55dcc?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/16a3d4441863f24e614739f62125681c8bad2063?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        35,
+        33,
+        33
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/850924799984d09d97e799931832957838d3e21f",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/850924799984d09d97e799931832957838d3e21f",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8757b7dce24696fe3359757f079a7be941a9e451",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Istorijos",
+        "Istorijos",
+        "Lees and Seas"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3lNbNnofochq9TRgKxFIVN"
+      },
+      "followers": {
+        "href": null,
+        "total": 2794
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3lNbNnofochq9TRgKxFIVN",
+      "id": "3lNbNnofochq9TRgKxFIVN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aaa892c4b5f1fbd9bd15dbc7806605daa9aeeaaa",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/96accebc1ab7095068b697ccd5990f7e669de5a5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/8150a27588d2d523aaeb97df973504b7bfc1ab2e",
+          "width": 160
+        }
+      ],
+      "name": "Happyendless",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:3lNbNnofochq9TRgKxFIVN",
+      "popularSong": [
+        "The End of the Road",
+        "Kiek Buvome Verti - Happyendless Remix",
+        "Atbėgo Kariūnai, Sušaudė Brazauską"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/389XfZLGMplqHNmgKlY56y",
+        "https://open.spotify.com/album/5TC1aVZAuLNRetw60FzdqX",
+        "https://open.spotify.com/album/05Rs2tcvPn1whdq7MALAmv"
+      ],
+      "releaseDate": [
+        "2011-12-11",
+        "2018-06-26",
+        "2018-08-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/b53728636888a842a4a72d7157d89e677dd59329?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/cee18b97430c898a32ccaa42ebc1390c50f7254f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/3ad3288f0309d06e1a1c028b3e269a865483cd65?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        37,
+        36,
+        31
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9407840ddf99b9d3670915fe8bd3849c6f0d0a22",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2a642c72df75836a5e68f12ea6667835203304fb",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e7730a49112fbd26321cb9170a144af994d9c951",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Cinema",
+        "Kiek Buvome Verti (Happyendless Remix)",
+        "Atbėgo Kariūnai, Sušaudė Brazauską"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2dHECfE7vAlXc4DgNhUKrr"
+      },
+      "followers": {
+        "href": null,
+        "total": 1432
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2dHECfE7vAlXc4DgNhUKrr",
+      "id": "2dHECfE7vAlXc4DgNhUKrr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/13361ab8eaffd90c405c0b0020c8db334208eeff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8e1128ecc84688141eab13627b6808c8d2a1f89a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/257788a7e7a0d339f1e8e01d412655cc0b0e1464",
+          "width": 64
+        }
+      ],
+      "name": "Skamp",
+      "popularity": 23,
+      "type": "artist",
+      "uri": "spotify:artist:2dHECfE7vAlXc4DgNhUKrr",
+      "popularSong": [
+        "Nemiegančios Naktys",
+        "Love Me Like There's No Tomorrow",
+        "Nieko Panasaus Feat. A. Mamontovas"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0D2bJiwVXWXQTb0aSBgeuM",
+        "https://open.spotify.com/album/24MfLI38q2bTH4sMwYVXLo",
+        "https://open.spotify.com/album/2g9zg7Ot9U0r922kW54Vlm"
+      ],
+      "releaseDate": [
+        "2018-03-27",
+        "2018-11-05",
+        "1998-01-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/1c75aee6d5b9ee8fadf7e92dd9328639983354e1?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/04e545e093d1a66d9ed4560cf7f672e6797ace0a?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/7e2dc1417cfd5eb12302087c0b3943adee0a535c?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        30,
+        22,
+        20
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/257788a7e7a0d339f1e8e01d412655cc0b0e1464",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ceb961926ad98ed63dd87ab290b8577722f8996e",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/03e94b4f786eb6b399b9642c77db9319940d5abb",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Nemiegančios Naktys",
+        "Love Me Like There's No Tomorrow",
+        "\"Angata\" (1999)"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mb91EaJFCFcvGXaDaWy9W"
+      },
+      "followers": {
+        "href": null,
+        "total": 3746
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7mb91EaJFCFcvGXaDaWy9W",
+      "id": "7mb91EaJFCFcvGXaDaWy9W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5e4391cbd68d0767f1132c302d6f0ac03c383103",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/b6d375cd08b56fad0425b265c4743f3d718a4214",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/cfc227fd49e964ac3d7188207ecc4244cf40467c",
+          "width": 160
+        }
+      ],
+      "name": "Linas Adomaitis",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:7mb91EaJFCFcvGXaDaWy9W",
+      "popularSong": [
+        "Ji Mano (& Pushaz)",
+        "Vandenynai (Dedikacija Saulei)",
+        "Išdalink Save"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3DPnXFn6fB5XoSh2rLtpa1",
+        "https://open.spotify.com/album/2CM7dbIlUJU6lBwS0nL4tc",
+        "https://open.spotify.com/album/3DPnXFn6fB5XoSh2rLtpa1"
+      ],
+      "releaseDate": [
+        "2012-03-19",
+        "2019-02-07",
+        "2012-03-19"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/3073aa3498bf12da06edb76e1be1faaffdf8df6a?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/220e5055d5b62445aba1b18a418598522c497ae3?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/231d424a038bc4f08a230ac1a6c0e54c3e0e2b26?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        32,
+        31,
+        29
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/17ab7db706ef176c24a820cb6366ac394529a78b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c47c73b7d28190e3e551d153b37222905d5301ad",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/17ab7db706ef176c24a820cb6366ac394529a78b",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Floating to You",
+        "Vandenynai",
+        "Floating to You"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MRYARxlS1hlWFYXGHMztL"
+      },
+      "followers": {
+        "href": null,
+        "total": 4983
+      },
+      "genres": [
+        "eurovision",
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5MRYARxlS1hlWFYXGHMztL",
+      "id": "5MRYARxlS1hlWFYXGHMztL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/86f600b8152bf2e1e3ecff4e2e69188160dfeba2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/bc16454c1c90df3cd6d0cd62509fabc67b9c5f12",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b36bc3e0120e3295be31382eaa0f6d36f6a8d385",
+          "width": 160
+        }
+      ],
+      "name": "Monika Linkyte",
+      "popularity": 28,
+      "type": "artist",
+      "uri": "spotify:artist:5MRYARxlS1hlWFYXGHMztL",
+      "popularSong": [
+        "Po Dangum",
+        "Zodziu Nereikia",
+        "Padovanojau"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2J8duzorohM7IJI3Tslr1j",
+        "https://open.spotify.com/album/2J8duzorohM7IJI3Tslr1j",
+        "https://open.spotify.com/album/6ZX1NEzGamcSduYkE4qiRa"
+      ],
+      "releaseDate": [
+        "2015-09-17",
+        "2015-09-17",
+        "2018-06-30"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/74d0fc1a50d92f8387033e0b80745ebbceb7db6f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/f9fe62cd56657451d8da142f92abdc90e85072e6?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/3d20e3f847f213e23f61853a9f46387544288313?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        34,
+        25,
+        25
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cfc32a0b13a7ee05fc6be8d46ceb9c982d5cb4dd",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cfc32a0b13a7ee05fc6be8d46ceb9c982d5cb4dd",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9874593a4f7e454f413beef7c46618cd0ad0e156",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Walk With Me",
+        "Walk With Me",
+        "Padovanojau"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3McTKJDgAb7YHbPYOp9LQL"
+      },
+      "followers": {
+        "href": null,
+        "total": 9903
+      },
+      "genres": [
+        "eurovision",
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3McTKJDgAb7YHbPYOp9LQL",
+      "id": "3McTKJDgAb7YHbPYOp9LQL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e93812e0ca80b3064b7d4a93df468c74aac1f759",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/69d9e055273526d4e24f44c761ebe670162c70eb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/75b027986abe76d0982ad91a5afe252d3a1bf236",
+          "width": 160
+        }
+      ],
+      "name": "Donny Montell",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:3McTKJDgAb7YHbPYOp9LQL",
+      "popularSong": [
+        "I've Been Waiting for This Night",
+        "Nieko Verta",
+        "Žiūrėk Ką Padarei"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5DVWFMOTR6sLX8YoiyMpjD",
+        "https://open.spotify.com/album/0xE0iQJnhkDuxUnx2cCirx",
+        "https://open.spotify.com/album/34oof9e0MmTfQJMmV9NiNf"
+      ],
+      "releaseDate": [
+        "2016-03-29",
+        "2017-12-21",
+        "2018-07-06"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/cafbd630363a33a298d100e11a6ae4dfb4fc8bfc?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/30b64e20bf47f447ee0873d499603401ce5b3d67?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/f0c05379257e4b1e07393db66744375350b6cd16?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        38,
+        36,
+        33
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4bf2298d567644bd420379500d212d82bfe5512b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c7de2c4fa00cda313d990bb283758f57c45a8133",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e6a5154089d9feeeb6a8e8ac6dc20d6840bc7b2d",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "#Blck",
+        "Nieko Verta",
+        "Žiūrėk Ką Padarei"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2VyI3HpJvjYW0cNbKF0Gvq"
+      },
+      "followers": {
+        "href": null,
+        "total": 673
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2VyI3HpJvjYW0cNbKF0Gvq",
+      "id": "2VyI3HpJvjYW0cNbKF0Gvq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d2db1831953c142e840b7cf6a516d25f33c3a4d0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1aad7028f8a2406e9a2b84b2e3ba52071e615812",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/47f6f9e0658e042f607e6b77f8d4cb91f8368076",
+          "width": 64
+        }
+      ],
+      "name": "2 Donatai",
+      "popularity": 19,
+      "type": "artist",
+      "uri": "spotify:artist:2VyI3HpJvjYW0cNbKF0Gvq",
+      "popularSong": [
+        "2ŠE",
+        "Prisėdai šalia",
+        "Kai kas vakarą"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/04J9djdqHXSimIqwe9p4zC",
+        "https://open.spotify.com/album/4cvswYE2YHpC3FiUDE4OGb",
+        "https://open.spotify.com/album/4cvswYE2YHpC3FiUDE4OGb"
+      ],
+      "releaseDate": [
+        "2017-07-05",
+        "2015-11-07",
+        "2015-11-07"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/53a9e3bd9c4ab3ee7d40d4fba1914a8a40821f4b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/4e7b38fd3cc580ad51473d42da3eae8caf4ccd47?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/0351c4f915b1dcc6230ce1f12da048e15e468b6b?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        24,
+        18,
+        17
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b99d8168f6887724e69d8ee57743cea37763ff9d",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/47f6f9e0658e042f607e6b77f8d4cb91f8368076",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/47f6f9e0658e042f607e6b77f8d4cb91f8368076",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "2ŠE",
+        "Viskas Pusiau",
+        "Viskas Pusiau"
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28Ay5v0M2uegKIswk4dUWQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 9901
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/28Ay5v0M2uegKIswk4dUWQ",
+      "id": "28Ay5v0M2uegKIswk4dUWQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4e44dba300b32a8aa49c6ab4e57cf0432d12c589",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/27f71a7ecca54db0829a1a7045dad584bef64d05",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/81951f194d10c9da8d0674fc9d36518f3100fff1",
+          "width": 64
+        }
+      ],
+      "name": "Andrius Mamontovas",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:28Ay5v0M2uegKIswk4dUWQ",
+      "popularSong": [
+        "Kitoks Pasaulis (2017)",
+        "Marso Kanjonai",
+        "Tavo Svajonė"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5wIt8PcpA3CDkOdhUvTggy",
+        "https://open.spotify.com/album/6QChLtzr0AKXAa1UjQ4mP0",
+        "https://open.spotify.com/album/0RlE4rIDnQTQDJY8jRp5W5"
+      ],
+      "releaseDate": [
+        "2017-04-04",
+        "2006-02-14",
+        "2008-02-14"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/dbf2f855be838829360896047342f4ab42655852?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ec9e94de6ae2da920e8b518f3f2ff3203ac688ef?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/5a324eae38dcf69fb66380d2c11cd88169c3e2ce?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        34,
+        33,
+        32
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4e96998e2e4de0ecb471ee592742c35d890b5a2d",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b68739719e5148fee7f204a5e2a9ad90fa1b5081",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/81951f194d10c9da8d0674fc9d36518f3100fff1",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Kitoks Pasaulis (2017)",
+        "Saldi. Juoda. Naktis.",
+        "Geltona. Žalia. Raudona."
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0seAUteh6YCMTYjXgAOpMz"
+      },
+      "followers": {
+        "href": null,
+        "total": 2863
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0seAUteh6YCMTYjXgAOpMz",
+      "id": "0seAUteh6YCMTYjXgAOpMz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7e3a925848f028c222ca48597f997b1939856a01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f6637934a93519079b0aa4778f5858b58c7df960",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3b52ad50948411c2e9661d3d725b37fb753c8132",
+          "width": 64
+        }
+      ],
+      "name": "Marijonas Mikutavičius",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:0seAUteh6YCMTYjXgAOpMz",
+      "popularSong": [
+        "Nemirtingi",
+        "Drąsių Nieks Nežudo",
+        "Baigėme Mokyklą"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1UETmaWew343MksYGEaeAN",
+        "https://open.spotify.com/album/2TaPokWKTwDuAmONq1EmvA",
+        "https://open.spotify.com/album/1FCOJh5kV3U72eZOLnUb9p"
+      ],
+      "releaseDate": [
+        "2017-11-28",
+        "2018-08-10",
+        "2018-08-10"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/eb0d58ea6ec645311ebf70726fd74200e28b2023?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a5e4aa7631786b6ce595458041c400ac3b67e019?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b244f29206db02b116a53a443345c00c1be21271?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        27,
+        27,
+        26
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a57609b461c8dd8b1af291c86c0e5d0fd4002892",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5036f276bd73591aabcf6d178e1b26cb6e00753d",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a96753700aec557d0496397fbc236c090d409164",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Nemirtingi",
+        "Lengvas Budas Mesti Klausytis",
+        "Baigeme Mokykla"
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+      },
+      "followers": {
+        "href": null,
+        "total": 6314
+      },
+      "genres": [
+        "lithuanian indie",
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4JgXlDN8sCvwjFeFlWnsuf",
+      "id": "4JgXlDN8sCvwjFeFlWnsuf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/23e5715a9ec1a9431793b2e5887662b4594e69f8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/44e06fc19c59c1e667dc0a7993cf9e5acdec2918",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/40e8443ccbca03bb0a7b5b5b767ebfa3828aee1a",
+          "width": 160
+        }
+      ],
+      "name": "ba.",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:4JgXlDN8sCvwjFeFlWnsuf",
+      "popularSong": [
+        "Sugebėt Pasikeist - Bonus",
+        "Auka",
+        "Naktį Judu"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3dAcxay2a8IOpTKl49pZ5u",
+        "https://open.spotify.com/album/0wCbZGLpPGNqXQT7gGQz7U",
+        "https://open.spotify.com/album/3dAcxay2a8IOpTKl49pZ5u"
+      ],
+      "releaseDate": [
+        "2015-02-26",
+        "2017-02-26",
+        "2015-02-26"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/612ce50c2fcdd6ecacdda307d719c8bedfafcf88?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/90f282fbb9dad7a7f7486b2f47e72905be28322c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/bd1137d3e714f462c7344a7d20f1ef913167f79a?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        33,
+        33,
+        31
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0e593e8c37584e98bf344092d6869ae8541ff4da",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6afd2222cb3f8f2bf0d73708d86f05edda62c982",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0e593e8c37584e98bf344092d6869ae8541ff4da",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Rasti / Pasiklysti",
+        "Garsiai Mąstau",
+        "Rasti / Pasiklysti"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Pqas1U08rstxj6CEVRMFD"
+      },
+      "followers": {
+        "href": null,
+        "total": 38
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2Pqas1U08rstxj6CEVRMFD",
+      "id": "2Pqas1U08rstxj6CEVRMFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8d3d0fcbff70fd6c507519abae183c2952431bcc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/4bd98e878207be8455e4e8188fb51056b12bcd32",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/0f872e853749c07001809bb2148e9ece7d33c773",
+          "width": 160
+        }
+      ],
+      "name": "Paula",
+      "popularity": 5,
+      "type": "artist",
+      "uri": "spotify:artist:2Pqas1U08rstxj6CEVRMFD",
+      "popularSong": [
+        "Omg",
+        "Let U Go",
+        "1 2 3"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6pdOC7kPwpQ4MODqLsG5Qw",
+        "https://open.spotify.com/album/7eOqTWQMQwVQTqzF1dFFtA",
+        "https://open.spotify.com/album/2t1HzcvOpFgGOG6qOmT4I1"
+      ],
+      "releaseDate": [
+        "2018-09-07",
+        "2017-01-04",
+        "2018-02-07"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/8d463998ab6178b3957b7ca15837ace8d5773d55?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/137d44da4a4f18667b90e3a2478942c0beb273ba?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/f023e78d5ab4bc67184fdf4aa02180d3454fc918?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        10,
+        8,
+        6
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f4233b0dcf2bf89d91fc80c7510a94d962ef577b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a02b57b86996ecde595f692f53e61096c91d8147",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fa812141a67ea3afc1dbb4340f1358246e039ece",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Omg",
+        "Let U Go",
+        "1 2 3"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3S01g7dRqUKZ595JjKwNPk"
+      },
+      "followers": {
+        "href": null,
+        "total": 4168
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3S01g7dRqUKZ595JjKwNPk",
+      "id": "3S01g7dRqUKZ595JjKwNPk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/86185475a5572ce89afc4869a48ca2af4a34eb9d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/9021691fc0f791e35a5c62adf067928676bca596",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/d24eb224839e80b9c8f53a77b46c6e87f0075f01",
+          "width": 160
+        }
+      ],
+      "name": "Junior A",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:3S01g7dRqUKZ595JjKwNPk",
+      "popularSong": [
+        "Sleep Machine",
+        "Flashbacks",
+        "Zipper"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5RHMpl21qQIOKl4wD7kBIg",
+        "https://open.spotify.com/album/63SxFWNLKVce8BwDai3L4q",
+        "https://open.spotify.com/album/4vtmn31zQOOQSdxnUIKwLe"
+      ],
+      "releaseDate": [
+        "2017-05-16",
+        "2018-04-23",
+        "2018-05-21"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/436a298c49690a2feee5701643ab1c4a1d0ba789?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ef54eee45b7891a246b8f3801a23208606a33b74?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/21335377835e5aea85f32293265104228e4a5bbe?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        47,
+        38,
+        33
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3e3ce29852e832340cc55a51b38e208d3681653e",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/95eed98e8ca9f9864574cc774f3c4cff362e5fc0",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e6c5b5d8caba65618478c9fae915927d23064215",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Born Busy",
+        "Flashbacks",
+        "The Day He Disappeared"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4CcPVaK0t4u3dFBL22BVmY"
+      },
+      "followers": {
+        "href": null,
+        "total": 2
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4CcPVaK0t4u3dFBL22BVmY",
+      "id": "4CcPVaK0t4u3dFBL22BVmY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aa1988d63594cad4afc46492105906685aba9e40",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e1191632713b660f4a2646dd09d2897548a4c4ef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c13ff2d62f89338108808deb533703cd481ccca3",
+          "width": 64
+        }
+      ],
+      "name": "Augustė Žičkutė",
+      "popularity": 5,
+      "type": "artist",
+      "uri": "spotify:artist:4CcPVaK0t4u3dFBL22BVmY",
+      "popularSong": [
+        "Sapne"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/7DyI0vhu6TQXSLjx1ycGF6"
+      ],
+      "releaseDate": [
+        "2018-11-19"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/0a589110a0b2b0b2621cc229ade69386fd6c15b0?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        15
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c13ff2d62f89338108808deb533703cd481ccca3",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Sapne"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5qt3ByOG9ON6ZR7B8dyyUd"
+      },
+      "followers": {
+        "href": null,
+        "total": 18
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5qt3ByOG9ON6ZR7B8dyyUd",
+      "id": "5qt3ByOG9ON6ZR7B8dyyUd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/08979da6d54e0cedf8f1287e6650609d5cca6df4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a89814c0d342d805ae9c6f53c1de22f904d31936",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6dcda39b571776c6c3683dbe42d364c36cb4fdb1",
+          "width": 64
+        }
+      ],
+      "name": "Kaia",
+      "popularity": 25,
+      "type": "artist",
+      "uri": "spotify:artist:5qt3ByOG9ON6ZR7B8dyyUd",
+      "popularSong": [
+        "All About the Bass - Radio Edit",
+        "Surf (BugBug Remix) [Radio Edit]",
+        "Surf - Radio Edit"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/08JTKjqP7CR08qj3axnLIK",
+        "https://open.spotify.com/album/2WSUX5n8gCxtxHbP3wFmNE",
+        "https://open.spotify.com/album/2WSUX5n8gCxtxHbP3wFmNE"
+      ],
+      "releaseDate": [
+        "2018-07-25",
+        "2017-10-27",
+        "2017-10-27"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/82fd1d1ff1f817320a239acbcbc940ea5c2e74ce?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/acf90523621f76afab272eece7228b9e6aed4588?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/5255d08238fb0dde5a6f60431fc648582e538cea?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        36,
+        28,
+        16
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6dcda39b571776c6c3683dbe42d364c36cb4fdb1",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e971b074bd4027880dbfa6cc960b23ecf19a4865",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e971b074bd4027880dbfa6cc960b23ecf19a4865",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "All About the Bass (Radio Edit)",
+        "Surf",
+        "Surf"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cvoCzdvGznpTvX5ueS0WV"
+      },
+      "followers": {
+        "href": null,
+        "total": 7
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6cvoCzdvGznpTvX5ueS0WV",
+      "id": "6cvoCzdvGznpTvX5ueS0WV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2eb421d06e82728f4ca3c8169f4b29a907f5ab8f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ecf27d0e14e389dfa061ce8c84d660a9a3166008",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3442037b55fc58c0c61c7a6af360f218ca790704",
+          "width": 64
+        }
+      ],
+      "name": "Nika Ganga",
+      "popularity": 2,
+      "type": "artist",
+      "uri": "spotify:artist:6cvoCzdvGznpTvX5ueS0WV",
+      "popularSong": [
+        "Guide Me Home - Baltic Champions Remix",
+        "Guide Me Home",
+        "Guide Me Home - Matto Remix"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0zNJmO6LbW1jGE14sUNIzH",
+        "https://open.spotify.com/album/7I9spQPvjUfcTpQQ2KWYvo",
+        "https://open.spotify.com/album/0zNJmO6LbW1jGE14sUNIzH"
+      ],
+      "releaseDate": [
+        "2018-10-24",
+        "2018-08-29",
+        "2018-10-24"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/1f486aa3b3d61c6b135ed3cd82eaf0693553d1bd?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ca506583ecda97725da557dab40c97c843a337ad?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/77964e18fa25820c8546decebcae18050e6b3a15?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        7,
+        3,
+        2
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3442037b55fc58c0c61c7a6af360f218ca790704",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/31be2cbbe6646d238266935c299b57b017e6d9a8",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3442037b55fc58c0c61c7a6af360f218ca790704",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Guide Me Home [Remixed]",
+        "Guide Me Home",
+        "Guide Me Home [Remixed]"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/616B8WRJPzKvg8yh6vmQyr"
+      },
+      "followers": {
+        "href": null,
+        "total": 850
+      },
+      "genres": [
+        "eurovision",
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/616B8WRJPzKvg8yh6vmQyr",
+      "id": "616B8WRJPzKvg8yh6vmQyr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/35df01361982cee437e7b49fc4186c67ecf41e33",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/e024fd31f16016d911f53d0dac3dac49aecf8c76",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/3e070fc9f7d312b0573ad28b92b3c51b5e78f368",
+          "width": 160
+        }
+      ],
+      "name": "Monika Marija",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:616B8WRJPzKvg8yh6vmQyr",
+      "popularSong": [
+        "Light On",
+        "Criminal",
+        "Paukščiai - LIVE"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6fgTZyd4b2ySPiEUCGzV1N",
+        "https://open.spotify.com/album/6fgTZyd4b2ySPiEUCGzV1N",
+        "https://open.spotify.com/album/2WBaPj3beSjP5NqchVE1xX"
+      ],
+      "releaseDate": [
+        "2018-12-14",
+        "2018-12-14",
+        "2018-06-20"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/ed620d271dae899689b1dff2e00a5c844e7ff620?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/aeab82772852b1692dce80e53d237d0763194b07?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/2fc902ce0aef51b4bc46501b129feb710aaf1e08?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        36,
+        33,
+        22
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5b84a0a9ec4aab04320ea1bb3dd1b180c7951fcb",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5b84a0a9ec4aab04320ea1bb3dd1b180c7951fcb",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/593feb2965fce62f6c5ebff2bbfb016ae5a6571d",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Monika Marija",
+        "Monika Marija",
+        "Paukščiai (LIVE)"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LxjYYRkYzxpRzPxZy8mXW"
+      },
+      "followers": {
+        "href": null,
+        "total": 49
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6LxjYYRkYzxpRzPxZy8mXW",
+      "id": "6LxjYYRkYzxpRzPxZy8mXW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/196041fdff3f5f84252f5641f66aa49ee3a4bf36",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/42f2416760a897f73f3f35747fbd8718e474c3ac",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/5acbe5a64c9af2b173e6241741f8d3702adad94b",
+          "width": 160
+        }
+      ],
+      "name": "Klaudia Keziah",
+      "popularity": 8,
+      "type": "artist",
+      "uri": "spotify:artist:6LxjYYRkYzxpRzPxZy8mXW",
+      "popularSong": [
+        "ORE",
+        "Go",
+        "Sunrize"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1B8U38rWUfypo899Yh1Bv0",
+        "https://open.spotify.com/album/55vMcMOLhus7bTKw21yEx1",
+        "https://open.spotify.com/album/4eK6atLBnsXZURm7yoi2Dp"
+      ],
+      "releaseDate": [
+        "2019-03-24",
+        "2019-01-26",
+        "2018-08-26"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/2c4b65790c1f3e48d60cb618be63ee6b4c4b24b8?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/92068578dc77e40b3fe8fc34cdd891629682144f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/84a94e9ac8cb9dada76cad8f5c894066215d1585?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        8,
+        5,
+        3
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/05ed426dd1e6b14d2768562f8ee1fdfee689a192",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7e7403cd3ee27182aef856fd0791ff62257b03d5",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a5e0f1e17df8c76b06312e4aeff3c05b186edca1",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "ORE",
+        "Go",
+        "Sunrize"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yr8e8adqybnedCYwE7Xhl"
+      },
+      "followers": {
+        "href": null,
+        "total": 33
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3yr8e8adqybnedCYwE7Xhl",
+      "id": "3yr8e8adqybnedCYwE7Xhl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77155abe8051d336f6f851fd12e723030e6eb3cd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/de5b8bc3d6d4b52528cf3b1d3a6b5d15261bfd0e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7b2b695bb73f9132221b59da54cc8a3e32f77b93",
+          "width": 64
+        }
+      ],
+      "name": "Keite Arai",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:3yr8e8adqybnedCYwE7Xhl",
+      "popularSong": [
+        "Lay Me Down",
+        "Pažiūrėk Į Mane",
+        "Pažiūrėk Į Mane - Papuga Remix"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/29mHefUb4p9dKLS03k0y3e",
+        "https://open.spotify.com/album/3u3ucalGIsWxZwiDkYnOAC",
+        "https://open.spotify.com/album/7xXQC3Cw961lBhFFvNLZs4"
+      ],
+      "releaseDate": [
+        "2018-11-21",
+        "2019-01-23",
+        "2019-03-13"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/8458dae0878e571e47762747ba6eab401472d63a?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/126ccf0c8f4030e59a34719971fa6246967d2c7e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/d0175347dd3921539d0b1157f64ce01cbdc93f91?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        47,
+        30,
+        16
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe550169899dd6f48112fd3f4ed5d3",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7b2b695bb73f9132221b59da54cc8a3e32f77b93",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/403dfbadc6de8baef207df30bf1d5a28d02e39ef",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Anymore (EP)",
+        "Pažiūrėk Į Mane",
+        "Pažiūrėk Į Mane (Papuga & Domas Remixes)"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0KaCPegNwYNmKuyzGHZR3V"
+      },
+      "followers": {
+        "href": null,
+        "total": 926
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0KaCPegNwYNmKuyzGHZR3V",
+      "id": "0KaCPegNwYNmKuyzGHZR3V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dc61cc4f60004291e7894cb7350525896e573e8a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/cbf825c165f59510aeb9da79de1e7c145caad0d8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/33661f67d8927926368916d89f2e63f364f04b34",
+          "width": 160
+        }
+      ],
+      "name": "JUSTÉ",
+      "popularity": 28,
+      "type": "artist",
+      "uri": "spotify:artist:0KaCPegNwYNmKuyzGHZR3V",
+      "popularSong": [
+        "Mūsų Meilę (Mylėjau Viena) - Lucky Luke Remix",
+        "Mūsų Meilę (Mylėjau Viena) - Delta Jack Remix",
+        "Be Vardų - Instant Beat Remix"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0FcocbPrm6CfyScq2i9gmW",
+        "https://open.spotify.com/album/7Eau5d5CWG1y1ReIBs2uWJ",
+        "https://open.spotify.com/album/5YWKk2CvWVBWLl9N8DMvNW"
+      ],
+      "releaseDate": [
+        "2017-08-18",
+        "2017-08-14",
+        "2016-10-24"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/bf93277b7cd7f8dee9d1102bb6634e9fcbb4177f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/96747fef6a75386181d7a1322c0786ce40e633f6?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/9c63704d24d542c070fc6ea1d7c3605589437348?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        37,
+        29,
+        27
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ef54451163cde7590c2ec979e648915275208b58",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c810d9474332f5ed8726bd4523b7cec3bf458b4f",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/288851f37a3586a35e4bac49a43dcb3003561233",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Mūsų Meilę (Mylėjau Viena)(Lucky Luke Remix)",
+        "Mūsų Meilę (Mylėjau Viena)(Delta Jack Remix)",
+        "Be Vardų (Instant Beat Remix)"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1TfwxalPNCdwY2bcxf26py"
+      },
+      "followers": {
+        "href": null,
+        "total": 33
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/1TfwxalPNCdwY2bcxf26py",
+      "id": "1TfwxalPNCdwY2bcxf26py",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/33ff4a3fbe81cec2627ecef2bcfbc43b0738681f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/f7ad5df60280ead644da5a084f098d5213c7821f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/dd737a6478a668fbc8551d3be8278c44209b7850",
+          "width": 160
+        }
+      ],
+      "name": "Freya Alley",
+      "popularity": 7,
+      "type": "artist",
+      "uri": "spotify:artist:1TfwxalPNCdwY2bcxf26py",
+      "popularSong": [
+        "Black Hole",
+        "Swimming",
+        "Party On My Own"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6KdpeRTsQkhQpngT0itfMV",
+        "https://open.spotify.com/album/2aq7ODgPqr93J3UClpXjTg",
+        "https://open.spotify.com/album/4PI4l0nGNe3FaOJL4TSCSm"
+      ],
+      "releaseDate": [
+        "2018-11-30",
+        "2017-10-24",
+        "2019-02-14"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/4e5e88199fd6fab09a544ec5907f7963407d7e16?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/038b2c62c75aea1bf305bea325e57e4c9f64e3e2?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a3d7fce7539fcbf1cd4f9d416ffc268f27819b4a?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        3,
+        2,
+        1
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2d42ff882625c9271cf067b14c2e7efbac1fde4f",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c1d4a8a8ab8b86308ab82eb6eeb4891fb968a16c",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/91d68ca9a1dd49333a8e382c568dff4ddfec57dc",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Black Hole",
+        "Swimming",
+        "Party On My Own"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3uZBXvFcHJ31b4Ln9iI78w"
+      },
+      "followers": {
+        "href": null,
+        "total": 2635
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3uZBXvFcHJ31b4Ln9iI78w",
+      "id": "3uZBXvFcHJ31b4Ln9iI78w",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/be0e1366e72b67ea0b74adfd26bf8b0e6b1d4ed4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8ace8fb16d7c44fb7f173c655fef4f480f6afbe8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/819d27eb086dc786cc074c57e44d6d51baa01bfa",
+          "width": 64
+        }
+      ],
+      "name": "Saulės Kliošas",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:3uZBXvFcHJ31b4Ln9iI78w",
+      "popularSong": [
+        "Ar Tu Jauti?",
+        "Įkvėpk Ir Nepaleisk",
+        "Tada Kada"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/16rrfM3LuF6JavLZIzhJNK",
+        "https://open.spotify.com/album/7wv7FUugwWNiGCloGa7kcN",
+        "https://open.spotify.com/album/4pxu7Rsu8hHa1yZwBdMxup"
+      ],
+      "releaseDate": [
+        "2015-08-26",
+        "2018-01-26",
+        "2019-02-25"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/6fd7c12aa5adf28cffa14a34bd2d8056e2908d12?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/890d4a056381dbb7b85a2eeb5cea08ccf49a098d?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/3206bdf273f757656367425021e4b669e4d9fbd2?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        39,
+        34,
+        33
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/819d27eb086dc786cc074c57e44d6d51baa01bfa",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f1fed2d11a066b3ab6f225bd9bc45956da47d423",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/24a25aabdd68d6391c2c4760cf6abe11a0cc1858",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Ar Tu Jauti?",
+        "Įkvėpk Ir Nepaleisk",
+        "Tada Kada"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34G31kGbSQmemVlI0G784o"
+      },
+      "followers": {
+        "href": null,
+        "total": 444
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/34G31kGbSQmemVlI0G784o",
+      "id": "34G31kGbSQmemVlI0G784o",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fa30d7ff624ac2f9b8ccb3bb04ffa3aeb0a044d6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/3b170a34e3b9feaffd5842c6799500a5904c9879",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/296580f6a1ca9c3e84c6a47796b8eff012394430",
+          "width": 160
+        }
+      ],
+      "name": "THE ROOP",
+      "popularity": 13,
+      "type": "artist",
+      "uri": "spotify:artist:34G31kGbSQmemVlI0G784o",
+      "popularSong": [
+        "Yes, I Do",
+        "Dream On",
+        "Hello"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1TgBH28MJdylgTGNyhulPC",
+        "https://open.spotify.com/album/7xxXDW5AOclEFSlpDp2MK4",
+        "https://open.spotify.com/album/37bs1NY8OwkpoJnPfTxLcQ"
+      ],
+      "releaseDate": [
+        "2018-01-24",
+        "2017-04-23",
+        "2017-10-13"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/2fa2e038b48813eeb87731f0aef34da677598320?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/23b5bf421b9bb23bd972344b390aa6cc2d55508c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/dde1e6a61dbc46995164c9197f2e309796fc4e0b?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        19,
+        11,
+        10
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/916f61ebac225a855f6bcce0028b952cba76a436",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2fc11b2f3beae7b9e9a17dd7769ddd8fe4e5a30a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/52c47368304b81af4514c7816027f756df86d77f",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Yes, I Do",
+        "Dream On",
+        "Ghosts"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/185PClXb9Vz5rwTflFgf8D"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/185PClXb9Vz5rwTflFgf8D",
+      "id": "185PClXb9Vz5rwTflFgf8D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/641971e45891be7a34706a0d140b085562b3da0b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ca82b58e3dac9ab9c8740986c9fd7db9160eca3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/98c1536149ef3ec033dc1b8f169d1a9c2620b736",
+          "width": 64
+        }
+      ],
+      "name": "Indrė Launikonytė",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:185PClXb9Vz5rwTflFgf8D",
+      "popularSong": [
+        "Mano Širdis Toli"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3YX86XJpntVIwXXJzGrwXW"
+      ],
+      "releaseDate": [
+        "2017-12-21"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/09b0701eb9cd05c9079d45254a4a51adb44f5f00?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/98c1536149ef3ec033dc1b8f169d1a9c2620b736",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Mano Širdis Toli"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/79x6fJ1hEzskBgZYZHIbNW"
+      },
+      "followers": {
+        "href": null,
+        "total": 4
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/79x6fJ1hEzskBgZYZHIbNW",
+      "id": "79x6fJ1hEzskBgZYZHIbNW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b2c5bb2c1d3ca2ad5195dc5ed34689384a4dd602",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/9fba9a32f486a20a17c9abb8c05fe34678bd3fc9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/26b6ea23ae47d3d75ac2d2d5ea6da9eaaf5e85ab",
+          "width": 160
+        }
+      ],
+      "name": "Marius Vilčinskas",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:79x6fJ1hEzskBgZYZHIbNW",
+      "popularSong": [
+        "Dar Nežinia",
+        "Pirmas Sniegas",
+        "Ignalinai"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6aX8hTsaAeBVbx0dEaikAt",
+        "https://open.spotify.com/album/6aX8hTsaAeBVbx0dEaikAt",
+        "https://open.spotify.com/album/6aX8hTsaAeBVbx0dEaikAt"
+      ],
+      "releaseDate": [
+        "2018-11-01",
+        "2018-11-01",
+        "2018-11-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/288781b5b9bf5724b8b354b1462a2ea4b6c90a6a?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/4d09719c2297a500478f908f11b393fbd95a8172?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/cde89e9091b3c56dc73cd57aeaf70b08dff6b25b?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501f8c3b6a03924d44ec6d869f6",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501f8c3b6a03924d44ec6d869f6",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501f8c3b6a03924d44ec6d869f6",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Gyvenimo Karuselė (Mikalojaus Noviko Dainos)",
+        "Gyvenimo Karuselė (Mikalojaus Noviko Dainos)",
+        "Gyvenimo Karuselė (Mikalojaus Noviko Dainos)"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Au9H2ddLNTiYfPJWwSabb"
+      },
+      "followers": {
+        "href": null,
+        "total": 10
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2Au9H2ddLNTiYfPJWwSabb",
+      "id": "2Au9H2ddLNTiYfPJWwSabb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9ecbcecb8b5a3b1b50e0f71b7aac948e4c7223c7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ed4d2330822f9d68e86e9507bab2342b0dab2bb0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/c986324b942a0704e54ee306fbcda98927f84d36",
+          "width": 160
+        }
+      ],
+      "name": "Marija Akelan",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:2Au9H2ddLNTiYfPJWwSabb",
+      "popularSong": [
+        "Meilė",
+        "Zhdat Zvonka",
+        "Eternity Of Dreams"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6M8xvk7cqYJKav9rGgnbzm",
+        "https://open.spotify.com/album/6M8xvk7cqYJKav9rGgnbzm",
+        "https://open.spotify.com/album/6M8xvk7cqYJKav9rGgnbzm"
+      ],
+      "releaseDate": [
+        "2017-11-30",
+        "2017-11-30",
+        "2017-11-30"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/e6ccacf40e9c0381947c5f8336d8dcbfff1453a4?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/dc1d0e58f26a9f43876473c519c868f763da50cc?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/e056ad456f016c84493322bea1083af4ea24daa0?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/84cfb6a6a2c4e0c3705ca7b4d2e689b63675a43f",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/84cfb6a6a2c4e0c3705ca7b4d2e689b63675a43f",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/84cfb6a6a2c4e0c3705ca7b4d2e689b63675a43f",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Eternity Of Dreams",
+        "Eternity Of Dreams",
+        "Eternity Of Dreams"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5sHH3cRvSsonTDIjRTyKyl"
+      },
+      "followers": {
+        "href": null,
+        "total": 215
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5sHH3cRvSsonTDIjRTyKyl",
+      "id": "5sHH3cRvSsonTDIjRTyKyl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6fd3b7569c479122f599b89681e8e3a2c7ab998b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/bde5966bbda39d10bd8faf8062e975daa6e64cd6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ec68bfcc79abf8c15828c0222670b5223c18bf6b",
+          "width": 160
+        }
+      ],
+      "name": "Justin 3",
+      "popularity": 6,
+      "type": "artist",
+      "uri": "spotify:artist:5sHH3cRvSsonTDIjRTyKyl",
+      "popularSong": [
+        "Jealous Yet",
+        "I Won't Break Down",
+        "Born to Be Wild One"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5jG5yGhcKtYDHLKlIHNDf2",
+        "https://open.spotify.com/album/0HAT0L7zNCw2iuOJNibt1M",
+        "https://open.spotify.com/album/33tnwx75uTsmTTVqHaIpu9"
+      ],
+      "releaseDate": [
+        "2018-06-29",
+        "2017-04-23",
+        "2018-01-04"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/2ee949e52432a384b8b98bbd7085035e20599733?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/235ac6a9adc9ed3ef4142926ecad5285c69d3ca1?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b79d6f5d0241112e2aca506a0c26a969c600b1c2?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        16,
+        3,
+        1
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/783c5674fcdd340c251e2da4d1f25e0248fe1728",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/21f3ba009aa6dc35ff400a4d04a3e89b48f8d037",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d621d115dab88967db2ed8f8301becfe8108ebdb",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Jealous Yet",
+        "I Won't Break Down",
+        "Born to Be Wild One"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LQvttKWB612DRiLy7TTpe"
+      },
+      "followers": {
+        "href": null,
+        "total": 38
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6LQvttKWB612DRiLy7TTpe",
+      "id": "6LQvttKWB612DRiLy7TTpe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/066dbb1dc99824f7d2a55deffbf08a77dd9c2643",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/283b76f1331df88f5f5940df7ec57257a049713b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fcf486287e3b4c7ad95b67b5b3014528b2fe7cc0",
+          "width": 64
+        }
+      ],
+      "name": "OTREYA",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:6LQvttKWB612DRiLy7TTpe",
+      "popularSong": [
+        "Laikyk (feat. Alekna)",
+        "Flames",
+        "One Day"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6TVA5MZp9Lqvxb8RFZaa5t",
+        "https://open.spotify.com/album/5LbsErYnjrTt8lByMuPYbQ",
+        "https://open.spotify.com/album/5nAHYTARUl71dS6YEMPDyZ"
+      ],
+      "releaseDate": [
+        "2019-03-07",
+        "2018-01-24",
+        "2017-05-24"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/d40810d4037e9f417d17f358705aaff34e5d8c02?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/9bfb7df254568877479081857e85856a16ed446e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/c86367baddaa028affcaa60178449729f4eb0548?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        29,
+        8,
+        6
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fcf486287e3b4c7ad95b67b5b3014528b2fe7cc0",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6732b3612573654f1291f0156674991bb40db084",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/149fe7e6a8fbbe110292703069c81cbccdf143fb",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Laikyk (feat. Alekna)",
+        "Flames",
+        "One Day"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lo8YzT7ivWIl0G1WBd0ef"
+      },
+      "followers": {
+        "href": null,
+        "total": 1206
+      },
+      "genres": [
+        "baltic folk",
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lo8YzT7ivWIl0G1WBd0ef",
+      "id": "5lo8YzT7ivWIl0G1WBd0ef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c1e93baf6dfa810d0b9f0e775d310716319b113b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/19fbc3a3a00a23d055c1016e3756bf0dcbef7b57",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/fdd6de34f5ad657cb1c9c0bfb8a9e1cf77eecb75",
+          "width": 160
+        }
+      ],
+      "name": "Žalvarinis",
+      "popularity": 19,
+      "type": "artist",
+      "uri": "spotify:artist:5lo8YzT7ivWIl0G1WBd0ef",
+      "popularSong": [
+        "Alaus Alaus",
+        "Oi Ta Ta",
+        "Trep Trep"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3FVF3VE4EaXi6KSk8Hqbk7",
+        "https://open.spotify.com/album/4WfxXiC8XMHCRn4iSm0TC3",
+        "https://open.spotify.com/album/4WfxXiC8XMHCRn4iSm0TC3"
+      ],
+      "releaseDate": [
+        "2005-05-02",
+        "2018-03-11",
+        "2018-03-11"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/b28eadda6339062e2f8a9e33a6cee7cc8ec1334e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/2d27709a8a805d91ec598bd478ea668caaae80d9?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/9e9a6145ab57efeeabbbdb0a62227087039974ec?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        17,
+        14,
+        14
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7ee4b85098f330d160d978074162265b00b63bbc",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f4e9be339246fdd861c08fa090ba8c16232a9085",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f4e9be339246fdd861c08fa090ba8c16232a9085",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Žalio Vario",
+        "Einam Tolyn",
+        "Einam Tolyn"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mzRxGTj2yHe92dDIelUWt"
+      },
+      "followers": {
+        "href": null,
+        "total": 274
+      },
+      "genres": [
+        "lithuanian pop",
+        "sung poetry"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3mzRxGTj2yHe92dDIelUWt",
+      "id": "3mzRxGTj2yHe92dDIelUWt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0c3c5cd93ea64efebb25ccd3b917ea3a68c45b6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/eba1e343eb10521eb4f32299d4d478e5302ec409",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f9e2e4fb8c9a758c4677a42aa8ae08418ef30494",
+          "width": 64
+        }
+      ],
+      "name": "Darius Žvirblis",
+      "popularity": 14,
+      "type": "artist",
+      "uri": "spotify:artist:3mzRxGTj2yHe92dDIelUWt",
+      "popularSong": [
+        "Las Vegas",
+        "Iš Geto Nr.3",
+        "Indigo Vaikams"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3sUKyr4Gx1idUiDX37vdqC",
+        "https://open.spotify.com/album/74MdkJBWjDDgF4xJkcJ469",
+        "https://open.spotify.com/album/74MdkJBWjDDgF4xJkcJ469"
+      ],
+      "releaseDate": [
+        "2013-01-01",
+        "2018-10-30",
+        "2018-10-30"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/319d4635fa47da78be8c7fbb9a9be17e196f130f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/3e9457dfe999f4134b71950d2415bf7e248d0c91?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/47ff2fe460e3c250e089bcbe3deea62eb9ce57bb?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        15,
+        10,
+        10
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/30b5d1b140955057c3f036a04a122c767931f372",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f9e2e4fb8c9a758c4677a42aa8ae08418ef30494",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f9e2e4fb8c9a758c4677a42aa8ae08418ef30494",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Rodyklės",
+        "Smičiumi Į Tavo Plaukus",
+        "Smičiumi Į Tavo Plaukus"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YNf4omMD3YfA2X1PNSARW"
+      },
+      "followers": {
+        "href": null,
+        "total": 27
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/0YNf4omMD3YfA2X1PNSARW",
+      "id": "0YNf4omMD3YfA2X1PNSARW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/965b7e4fb353d801f18c8f622c707a7031733050",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/22e8c91482591556504afa239bde7f1761134ca1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/e2d3add66b0751226fca3b8a8596a2b08236edeb",
+          "width": 160
+        }
+      ],
+      "name": "Mr. Jumbo",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:0YNf4omMD3YfA2X1PNSARW",
+      "popularSong": [
+        "Babkių Nebėra",
+        "Between Us",
+        "Smėlio Lenktynės"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/32wkFjrMSJVnfM6vfqAheT",
+        "https://open.spotify.com/album/1GvP0SW6agodE4HbyB5t0X",
+        "https://open.spotify.com/album/4ndIbSWqidE0IgHV0qKdKH"
+      ],
+      "releaseDate": [
+        "2009",
+        "2018-03-24",
+        "2018-02-25"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/c120e67da6df12ca005907fcc28fd8d2c9cd5d4e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/47f24e9e7de7ebaf729aff5bd36df22c3c298ce8?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/084856cce9a20cca56c2c525c61f736d170ba9b0?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a3e82ba20fe625327838624b5cd9e555a4618156",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a711b73a421ef88a55172779b9451bca50ea2941",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6a09d490a7425d6eaf6df995cc2924f4bdd795f4",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Muzikos Akademija. 2 Dalis",
+        "Between Us",
+        "Neužrašytos Istorijos"
+      ],
+      "albumType": [
+        "compilation",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6"
+      },
+      "followers": {
+        "href": null,
+        "total": 125
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2Tna85W7SvTboWMUSFilH6",
+      "id": "2Tna85W7SvTboWMUSFilH6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b1a0f4ec7dfe3312a4a195e50741caf53388a9ea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0c828802cdc04f705541be08eb313ac75b1ca949",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9d37a12d9c0a1cd65d4b1289cf3f3b46be5a15ec",
+          "width": 64
+        }
+      ],
+      "name": "Silvester Belt",
+      "popularity": 11,
+      "type": "artist",
+      "uri": "spotify:artist:2Tna85W7SvTboWMUSFilH6",
+      "popularSong": [
+        "Tave Radau",
+        "Noise",
+        "Perfect (Acapella)"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1YyKh00ki5wHnMiQKVjQ2i",
+        "https://open.spotify.com/album/7N1frpGCR1VPXOAMyMewfr",
+        "https://open.spotify.com/album/2kc6qo0ewIoS8zNQTug3Qe"
+      ],
+      "releaseDate": [
+        "2017-08-17",
+        "2017-06-09",
+        "2017-12-09"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/b098154f912747b702a66a14ee695c78ba2955e4?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/15bf0a69a6471e9ec1e9e4fc440791b381abaa9b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b63ef7c2e304ec25f34a0ba798c0e97683af5f92?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        18,
+        7,
+        2
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9d37a12d9c0a1cd65d4b1289cf3f3b46be5a15ec",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/94fa6ecc032b2017c71536276fb3df1b921c3749",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8789591e189a6e45450d8a36e9e5bc2a1ce67b6f",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Tave Radau",
+        "Noise",
+        "Perfect (Acapella)"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3"
+      },
+      "followers": {
+        "href": null,
+        "total": 429
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0dJJpF4ULA7xCU5xwHbCB3",
+      "id": "0dJJpF4ULA7xCU5xwHbCB3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3645e54bc55f26c44543e04abaa1a99f1e2a80cb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/addd2e6862759fa4bbe8ed31a5c7b2affa7620c7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/4cbabab788acd73ecba36f29f351623e0ceecd73",
+          "width": 160
+        }
+      ],
+      "name": "Gabrielius Vagelis",
+      "popularity": 23,
+      "type": "artist",
+      "uri": "spotify:artist:0dJJpF4ULA7xCU5xwHbCB3",
+      "popularSong": [
+        "Dalis Manęs",
+        "Paaukoti Tau",
+        "The Distant"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5VaweLd3dtF7Ny1chh2RI5",
+        "https://open.spotify.com/album/0j4H0JfQbzjccvM4bMMpty",
+        "https://open.spotify.com/album/4QFiXyl7btkFS5bFbSZlii"
+      ],
+      "releaseDate": [
+        "2018-12-17",
+        "2013-08-29",
+        "2018-01-26"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/358b211cafa5356d5ea1d90c75bdb26cfbb7235d?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/d4f5b85511b144f0597946166fee4bb3174a97b2?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/547352c9720e75e66b01d1d873bf29cfa5513896?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        33,
+        22,
+        19
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8cd4a8821094862f67ec7106b5bdd85ab792b8ea",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bdef59e0da7132f1a82d376ffbe4fb0d1f5e2b16",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/44c8a7f6e3269358d73e9f5786029733590be978",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Dalis Manęs",
+        "Paaukoti Tau",
+        "The Distant"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qRzubaw7vMJv1NayxOwm8"
+      },
+      "followers": {
+        "href": null,
+        "total": 320
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7qRzubaw7vMJv1NayxOwm8",
+      "id": "7qRzubaw7vMJv1NayxOwm8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9e4fb07e813d533c859898e2c263a56582decb28",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b5a00d2b9292a5918c7ffa964e690bc95e2c487a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/80d296ccb02bb4f868f4103b55b7b5be8ebf990a",
+          "width": 64
+        }
+      ],
+      "name": "Arbata",
+      "popularity": 12,
+      "type": "artist",
+      "uri": "spotify:artist:7qRzubaw7vMJv1NayxOwm8",
+      "popularSong": [
+        "Norisi Verkti",
+        "Žvilgsnis Tavo Akių",
+        "Toliau Be Tavęs"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5RiU4ofspeGkc6hmKTzaqT",
+        "https://open.spotify.com/album/5RiU4ofspeGkc6hmKTzaqT",
+        "https://open.spotify.com/album/5RiU4ofspeGkc6hmKTzaqT"
+      ],
+      "releaseDate": [
+        "2016-01-10",
+        "2016-01-10",
+        "2016-01-10"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/1c87c7a14e36e2ee84d914d7e1afea8800a0bf11?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/f54138fcf7f6a844c89d977ca33db321eb87f89e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/2169decd96c4c07879542c4870abcf093b3c0f8c?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        14,
+        8,
+        7
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/80d296ccb02bb4f868f4103b55b7b5be8ebf990a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/80d296ccb02bb4f868f4103b55b7b5be8ebf990a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/80d296ccb02bb4f868f4103b55b7b5be8ebf990a",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Visiems Saviems Iš Mėnulio_",
+        "Visiems Saviems Iš Mėnulio_",
+        "Visiems Saviems Iš Mėnulio_"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YHb52PQaxaCOK1x02K56J"
+      },
+      "followers": {
+        "href": null,
+        "total": 87
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4YHb52PQaxaCOK1x02K56J",
+      "id": "4YHb52PQaxaCOK1x02K56J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/693b044fe5878848a98d98dd7709ff06eb6ec4f8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e48ef3d4bb983d6f2330840431e5c92060dd3cf2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/50930cb7ca2a28d7a05f94921d1391bd70f4533d",
+          "width": 64
+        }
+      ],
+      "name": "Donatas Blanka",
+      "popularity": 10,
+      "type": "artist",
+      "uri": "spotify:artist:4YHb52PQaxaCOK1x02K56J",
+      "popularSong": [
+        "Išsaugosiu Aš",
+        "Ar Vis Dar Lauki",
+        "Ar Viskas Pasibaigs"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/59uD5EJCQeyy1DIkiOQqjO",
+        "https://open.spotify.com/album/5MeuXKz9oAW99qhV2o6Utx",
+        "https://open.spotify.com/album/4GNdHaZOUUhelNjThOu5Bh"
+      ],
+      "releaseDate": [
+        "2015-11-02",
+        "2018-06-13",
+        "2018-11-08"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/eee92096bd7f9110da878a9bebe0b5a65bf674ec?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/57c876433c0da0e48e8b957749b983c91ae3618f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/390cfbf5075eecebfd8bd5de31e885d0b49d9492?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        16,
+        14,
+        12
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/50930cb7ca2a28d7a05f94921d1391bd70f4533d",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b745db0b7a8bef33b4478f553a5b85ec6b6291ee",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4a8070a51f12608f73977db30cd3f4ec98816e62",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Išsaugosiu Aš",
+        "Ar Vis Dar Lauki",
+        "Ar Viskas Pasibaigs"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0LJ84eGN5V4Av9rj4xzLSS"
+      },
+      "followers": {
+        "href": null,
+        "total": 3765
+      },
+      "genres": [
+        "eurovision",
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0LJ84eGN5V4Av9rj4xzLSS",
+      "id": "0LJ84eGN5V4Av9rj4xzLSS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aa1fc5ba720ed10327b7379e0db89348eb9512d2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/37206203481201cf71fb919f851f7bbd701686c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dad74e126296eb69b6ee25183e6a7febae4010e9",
+          "width": 64
+        }
+      ],
+      "name": "Ieva Zasimauskaitė",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:0LJ84eGN5V4Av9rj4xzLSS",
+      "popularSong": [
+        "When We're Old",
+        "When We're Old (Jovani Remix)",
+        "Kol Myliu - Jovani Remix"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1wDiSb1TKCRDr9bPeoRNv9",
+        "https://open.spotify.com/album/3GD2QhsP3ZhPJhYaKdn7wx",
+        "https://open.spotify.com/album/1G2vfsbU1VLZS3nBgLbdKA"
+      ],
+      "releaseDate": [
+        "2018-02-13",
+        "2018-04-19",
+        "2018-05-04"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/01f96b68c978e88884aca0949058abe623580840?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/9f92bb66c6caa6cd8fd9d2e756c0a87330ec6297?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/fee515cb58dc392166184758c1e000c110fd66f3?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        48,
+        36,
+        35
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dad74e126296eb69b6ee25183e6a7febae4010e9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8da45607645444d0c692688f43e20fff9242b397",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b44309fd8874fab5318968ead4bccd16963d7f71",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "When We're Old (Eurovision 2018)",
+        "When We're Old (Jovani Remix)",
+        "Kol Myliu (Jovani Remix)"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5woKr1map2Qv3ag4AMO4bu"
+      },
+      "followers": {
+        "href": null,
+        "total": 13
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5woKr1map2Qv3ag4AMO4bu",
+      "id": "5woKr1map2Qv3ag4AMO4bu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2f9b11c4f0f1f067593b76fb3b6ac875ebadd9c5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a37ee42e9935f38c10d9a6fbd3c9c37519780a66",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dd9e18f3f91b443511924436e0da63efb06d15ba",
+          "width": 64
+        }
+      ],
+      "name": "Ramūnas Difartas",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:5woKr1map2Qv3ag4AMO4bu",
+      "popularSong": [
+        "Skauda",
+        "They",
+        "Ant Mėnulio Balto"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2Zht1xhfhM1LtMvOHJAzog",
+        "https://open.spotify.com/album/2Zht1xhfhM1LtMvOHJAzog",
+        "https://open.spotify.com/album/2Zht1xhfhM1LtMvOHJAzog"
+      ],
+      "releaseDate": [
+        "2018-02-08",
+        "2018-02-08",
+        "2018-02-08"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/c7ef39a5d77e52156d66642d93cbe38b36512517?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/eabceb598c738c51d8cb08e15d41afe3c7790599?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b9ba4008ca5884b2bc005f69bbe055e5a877eba5?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        1,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dd9e18f3f91b443511924436e0da63efb06d15ba",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dd9e18f3f91b443511924436e0da63efb06d15ba",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dd9e18f3f91b443511924436e0da63efb06d15ba",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Tarp Šešių Kalnų",
+        "Tarp Šešių Kalnų",
+        "Tarp Šešių Kalnų"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ynBxXXYIJXPGvgbQprWwY"
+      },
+      "followers": {
+        "href": null,
+        "total": 10
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2ynBxXXYIJXPGvgbQprWwY",
+      "id": "2ynBxXXYIJXPGvgbQprWwY",
+      "images": [
+        {
+          "height": 348,
+          "url": "https://i.scdn.co/image/f96feec78386ae8517452db88f3fe3db1869604b",
+          "width": 348
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/19d2494995a21236fe83035094585fd212d20433",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a6f000c4e5707069825d6e7065713e372d1f9702",
+          "width": 64
+        }
+      ],
+      "name": "Reflect.us",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:2ynBxXXYIJXPGvgbQprWwY",
+      "popularSong": [
+        "Tavo Lūpos"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3p1S2hCyn7AFsHaf8RzgYl"
+      ],
+      "releaseDate": [
+        "2016"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/d6a1f6559a5439fcfa54b90fbd8789016244b15c?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a6f000c4e5707069825d6e7065713e372d1f9702",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Tavo Lūpos (Singlas)"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Y2F4W9qSXLQ7ekd68VtWD"
+      },
+      "followers": {
+        "href": null,
+        "total": 2598
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0Y2F4W9qSXLQ7ekd68VtWD",
+      "id": "0Y2F4W9qSXLQ7ekd68VtWD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6de6e3800ebbba02afd1262c3dc16d3d1af1a66a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/32544d5c5568ebc509cabc5f72e7e6c5971f04d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/969788a102508c474ba257dd3687a17c1192228e",
+          "width": 160
+        }
+      ],
+      "name": "Biplan",
+      "popularity": 29,
+      "type": "artist",
+      "uri": "spotify:artist:0Y2F4W9qSXLQ7ekd68VtWD",
+      "popularSong": [
+        "O mes prie jūros",
+        "Kino filmai 2015",
+        "Amore - 2013 Bonus Track"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/7otd6WcznFaR3kBLV75AnP",
+        "https://open.spotify.com/album/2eGiqcQ5d0xa527vdXUU2l",
+        "https://open.spotify.com/album/0jnIlrBJllMojgW7Ur8Hdi"
+      ],
+      "releaseDate": [
+        "2014-11-22",
+        "2015-10-27",
+        "2013-02-14"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/06f6cbceb54432f3ac8d47477be30a0ccfc1892f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a9efefcb29607e127d290ad87cd857ec09654fff?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/4d880cf15d8c87427149175a2daee6df8d301b29?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        31,
+        26,
+        25
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f1dbaa631feffc9a00f5e7f3befac48cc6404bd1",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f002aaf0f2c9aee0bfc9e7fd4a7e70bbf65badf3",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/23c5ec91502e2609ff157c2b9153c12cd2f6f88a",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Visi keliai veda prie jūros",
+        "Kino filmai 2015",
+        "Meilė (Amore Deluxe Edition)"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74slBKepw6pKNBtKDKZFxs"
+      },
+      "followers": {
+        "href": null,
+        "total": 3023
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/74slBKepw6pKNBtKDKZFxs",
+      "id": "74slBKepw6pKNBtKDKZFxs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/38194b04510e44568d242e6399be5a053e37954d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/17d5732e0ca39641e83572f7ee8b37597e468c70",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a9f931039f879227738c97f0b669478005a3d5b7",
+          "width": 64
+        }
+      ],
+      "name": "Antikvariniai Kašpirovskio dantys",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:74slBKepw6pKNBtKDKZFxs",
+      "popularSong": [
+        "Mažulė",
+        "Į Venesuelą",
+        "Daug dienų"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/4FZuqUWrCvFDLkdWEerL7K",
+        "https://open.spotify.com/album/2AGTmAT3n0iVvfJ7ACkxHF",
+        "https://open.spotify.com/album/4WDZdAuAcfeopfombldk8m"
+      ],
+      "releaseDate": [
+        "2019-02-08",
+        "2015-08-11",
+        "2017-02-17"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/4a8593f3679c5ff3eb91cfb63c129fa7cdd6ec10?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a96b7b66b0682d840b8c024c4201da3827ed6e16?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ea85bae6351d46fbad71fff21cceac74c1050a72?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        37,
+        32,
+        32
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cbf4eb7cac5acfebac70848dd38977cdfb4e0ba4",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8c3894833bcf48c9d3bfc042feb46aa952e60bc6",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a9f931039f879227738c97f0b669478005a3d5b7",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Mažulė",
+        "Antikvariniai Kašpirovskio dantys",
+        "Problematika"
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IGKiSC8wNhw4XOyr7zQtZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 96
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3IGKiSC8wNhw4XOyr7zQtZ",
+      "id": "3IGKiSC8wNhw4XOyr7zQtZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3d243115c85c020f5eb9a2e142a18aa5b3f2d816",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/262df38e6b2d8973464c82eb19671f60d721bcb8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/90a2c28da12efa3c1caf94bb96e09faa57fa21e5",
+          "width": 64
+        }
+      ],
+      "name": "Jurgis Bruzga",
+      "popularity": 9,
+      "type": "artist",
+      "uri": "spotify:artist:3IGKiSC8wNhw4XOyr7zQtZ",
+      "popularSong": [
+        "CTRL ALT DELETE",
+        "4 Love",
+        "Niekas Neuždraus"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/74XJiW4LvVAG7iPmBKYqgo",
+        "https://open.spotify.com/album/1XfWUgJHaYPj87XebgPJy7",
+        "https://open.spotify.com/album/4DWxob5TrtB3bLpVkqPKI6"
+      ],
+      "releaseDate": [
+        "2019-01-31",
+        "2018-02-09",
+        "2018-04-18"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/e6a8d7ad82c760bd086fc208f3c830a7beb02aa0?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/93a468976b7570fb6f992487ee80ec55be58a5a2?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/072954d9ef000a1f78e63e311cafb1fd98099a82?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        16,
+        11,
+        7
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/90a2c28da12efa3c1caf94bb96e09faa57fa21e5",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c96d76777b047a3e57f39dcaaf058ba1f026c4f5",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c63c4dd221724a2a1c814225f77201a62fb141d3",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "CTRL ALT DELETE",
+        "4 Love",
+        "Niekas Neuždraus"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HWBgdTTfAdDu1JUolLvEu"
+      },
+      "followers": {
+        "href": null,
+        "total": 1075
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7HWBgdTTfAdDu1JUolLvEu",
+      "id": "7HWBgdTTfAdDu1JUolLvEu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dadaad786ec2e017b24a1c4c52065855234ca7e1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/08813b79318fd558bac6bd77ed45c4fe6dc8a9fd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b34a0d7d8e6b6e4276de179ee9ccc8293a9bc087",
+          "width": 160
+        }
+      ],
+      "name": "Deeper Upper",
+      "popularity": 18,
+      "type": "artist",
+      "uri": "spotify:artist:7HWBgdTTfAdDu1JUolLvEu",
+      "popularSong": [
+        "Made in 1982",
+        "Unity",
+        "Tolyn"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6bsNhYxnv41jY4nA0ZmeBf",
+        "https://open.spotify.com/album/1dIpTuQT266PA2CK8Hipqg",
+        "https://open.spotify.com/album/2AMT7JUAGISkSGh0MsqunM"
+      ],
+      "releaseDate": [
+        "2018-06-08",
+        "2015-03-20",
+        "2018-10-10"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/6e3186f4e45f2ebcf340cdd0c201da7fccfeb4f4?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ef495f1cd427258211acfeaf5fe90a1d289bd773?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/bf6ff3c06c409d75adfa79d7d0712a6c92037b47?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        26,
+        13,
+        13
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b1de21c7edb823720eea1904083647986c5cd108",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3bd7dfb39a37c44393193b352f28d2a807dd8738",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7f8541601f213c3ab04a5b9f3d5c3dee31ca9914",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Made in 1982",
+        "Ceremony",
+        "Tolyn"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42PD1vlpHpppwsIcyTwNTG"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/42PD1vlpHpppwsIcyTwNTG",
+      "id": "42PD1vlpHpppwsIcyTwNTG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fddd53bc980df98c9e6d874110f3772376e6a7da",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/84b566b1bc4b4bf3b5613f7baf524dcc2949c05b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b3d9f5413b5e802b7e92ee88461eca9d2f48eb3a",
+          "width": 64
+        }
+      ],
+      "name": "Jonė Dambrauskaitė",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:42PD1vlpHpppwsIcyTwNTG",
+      "popularSong": [
+        "Man 18 Sukanka"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5Cca2lcHGKOCwK4WsKQ5zY"
+      ],
+      "releaseDate": [
+        "2018-05-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/7b125b0feb16e52b474648bd3ad2f61928bfbbed?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b3d9f5413b5e802b7e92ee88461eca9d2f48eb3a",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Man 18 Sukanka"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/41RMkoNNC9XPxYzbKgq1ZP"
+      },
+      "followers": {
+        "href": null,
+        "total": 76
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/41RMkoNNC9XPxYzbKgq1ZP",
+      "id": "41RMkoNNC9XPxYzbKgq1ZP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77155abe8051d336f6f851fd12e723030e6eb3cd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/de5b8bc3d6d4b52528cf3b1d3a6b5d15261bfd0e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7b2b695bb73f9132221b59da54cc8a3e32f77b93",
+          "width": 64
+        }
+      ],
+      "name": "Cherry Monday",
+      "popularity": 20,
+      "type": "artist",
+      "uri": "spotify:artist:41RMkoNNC9XPxYzbKgq1ZP",
+      "popularSong": [
+        "Pažiūrėk Į Mane",
+        "Tavo Šviesa",
+        "Aitvarai"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3u3ucalGIsWxZwiDkYnOAC",
+        "https://open.spotify.com/album/6NFuXJieJ8l9hDw7PxgC5p",
+        "https://open.spotify.com/album/16Kbs0dlRwup9UmnyQQGc1"
+      ],
+      "releaseDate": [
+        "2019-01-23",
+        "2017-11-30",
+        "2018-04-29"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/126ccf0c8f4030e59a34719971fa6246967d2c7e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/9c1d587dbbfb1a1b80410bfbbcca358d56dc07e3?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a0f2feb5f971e966eb3a3d132d2a42b953fdca8d?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        30,
+        21,
+        18
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7b2b695bb73f9132221b59da54cc8a3e32f77b93",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/89192615516916b7fdcc1adbb9448a2cf3f3ac3c",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/70413136a21ac4c8c1cd8638e81eb30758682aa9",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Pažiūrėk Į Mane",
+        "Tavo Šviesa",
+        "Aitvarai"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31inada5i4nnZZ7bRzK2h3"
+      },
+      "followers": {
+        "href": null,
+        "total": 18
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/31inada5i4nnZZ7bRzK2h3",
+      "id": "31inada5i4nnZZ7bRzK2h3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8aab009c6ee318652d5b092ce27c82fc60ea7115",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5b2b11029870ec311bd148fe5ef6730d29eabc6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8da19cd88831404f7f1de3ec47b79529b2b91b81",
+          "width": 64
+        }
+      ],
+      "name": "Homechestra",
+      "popularity": 1,
+      "type": "artist",
+      "uri": "spotify:artist:31inada5i4nnZZ7bRzK2h3",
+      "popularSong": [
+        "Sad Cruisers"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3BLmuADpbejWI8FzaTBIeH"
+      ],
+      "releaseDate": [
+        "2018-03-29"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/826a8621f1691ddf3c8212968e65f9bc3b4e30d1?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        3
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8da19cd88831404f7f1de3ec47b79529b2b91b81",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Sad Cruisers"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hHX6MERf3NvtGkzzpozx0"
+      },
+      "followers": {
+        "href": null,
+        "total": 3949
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5hHX6MERf3NvtGkzzpozx0",
+      "id": "5hHX6MERf3NvtGkzzpozx0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ce7b8892dee4891b0a5f70dc8472e25018ac8fa7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/6238f8b675be028bfe8ec0c0f865bdc34600ba2a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/4a1f7ed7ffae1d8892229a5dff67f3e8de1c9251",
+          "width": 160
+        }
+      ],
+      "name": "Jurga",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:5hHX6MERf3NvtGkzzpozx0",
+      "popularSong": [
+        "Nebijok",
+        "Dance",
+        "Laisvė"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1ONbhRUJBnaKVglUyg6Lvn",
+        "https://open.spotify.com/album/6uch60zvL6UawseY522GVf",
+        "https://open.spotify.com/album/1ONbhRUJBnaKVglUyg6Lvn"
+      ],
+      "releaseDate": [
+        "2005-09-16",
+        "2018-11-23",
+        "2005-09-16"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/afc3d52f55f9115ca759f887a66f367518dc1c2b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/aafaec6061c8af7afff09579ceca3ed6f118e072?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/5712691eadbccb62274f7dc4c7f1530bf2a5867c?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        33,
+        32,
+        26
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6dfe3471f12aae0ac4700893ad170d07ab96ad9a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0616944fe9b2a6516fd017993b12224745a4e8cc",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6dfe3471f12aae0ac4700893ad170d07ab96ad9a",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Aukso pieva",
+        "Ten, kur tu - Geriausios dainos",
+        "Aukso pieva"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3e3xyn0Nx6ewAlddIPE2kI"
+      },
+      "followers": {
+        "href": null,
+        "total": 59
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3e3xyn0Nx6ewAlddIPE2kI",
+      "id": "3e3xyn0Nx6ewAlddIPE2kI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/951cd72d2464f9d6d643c58ee08603a3f0918bb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/34ebf052ee1ad50e677157b1fc5e9e6d3b28fe09",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/911a405fc366ec798aae93b49090b2a86837f08b",
+          "width": 160
+        }
+      ],
+      "name": "VEGA",
+      "popularity": 7,
+      "type": "artist",
+      "uri": "spotify:artist:3e3xyn0Nx6ewAlddIPE2kI",
+      "popularSong": [
+        "Dėl Tavęs"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3ojiRFpDkvkkICJ5Egqvsy"
+      ],
+      "releaseDate": [
+        "2018-06-03"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/90851e7fa56376ddadb7a58067a86c62f82448f2?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        18
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b6600f03196a0330335b31fd009fad7a218f8154",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Dėl Tavęs"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57bpEdsHC6Hnj9vq1fhLJ5"
+      },
+      "followers": {
+        "href": null,
+        "total": 595
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/57bpEdsHC6Hnj9vq1fhLJ5",
+      "id": "57bpEdsHC6Hnj9vq1fhLJ5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9fa8410e5cda55f45a527b136ee210703089a576",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/77f31fa67f7325359c694261413c929c8fbed220",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/9c15a95cecb01f406803c034c9c9c49c766b2eff",
+          "width": 160
+        }
+      ],
+      "name": "Jurgis Did",
+      "popularity": 18,
+      "type": "artist",
+      "uri": "spotify:artist:57bpEdsHC6Hnj9vq1fhLJ5",
+      "popularSong": [
+        "Sing! - Radio Edit",
+        "Rolling Waves",
+        "Love Warrior"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/5wlBPwMl5fbuLfWFNS7yI3",
+        "https://open.spotify.com/album/33AwS8UFONjNXO4v6N965F",
+        "https://open.spotify.com/album/1VXCz43RBEh2kXbbLl2WhW"
+      ],
+      "releaseDate": [
+        "2019-01-15",
+        "2018-06-15",
+        "2018-12-07"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/6c9fc49745a4988310dbb20fccb5c203f23612e1?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/93424af4f059bbb41efa1f501f9886fce05df4a2?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/21606a90b1b1c01a8540a18cfcb44d4e64334de5?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        23,
+        18,
+        17
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b4d7007f03e6a5c52e225a107226c54913ab3b34",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/89eb6ece176af7040ba27a38b5bdde2edc115a31",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6eed18b8a010d44c102561dd2b59b82f4300ee25",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Sing! (Radio Edit)",
+        "Rolling Waves",
+        "Love Warrior"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
+      },
+      "followers": {
+        "href": null,
+        "total": 17
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/17IHT4KW6k85SHKiSAssQt",
+      "id": "17IHT4KW6k85SHKiSAssQt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/357fc2ada683a8e87fc9d58bec970b9ce8ac5775",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/27dbfb50b066da0fdbd44074fd9be7a11b9dc203",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/9ac8a6225371cd2cedeec01b677e3e64e82b6ba8",
+          "width": 160
+        }
+      ],
+      "name": "Rokas",
+      "popularity": 10,
+      "type": "artist",
+      "uri": "spotify:artist:17IHT4KW6k85SHKiSAssQt",
+      "popularSong": [
+        "Taip Toli",
+        "Taip Toli - Op! Remix",
+        "Save Me"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3NKMEyPbSpatF5SVd842bu",
+        "https://open.spotify.com/album/3pJlWV2PTR4BjKPLb93Jwe",
+        "https://open.spotify.com/album/2iuvwPlLARdiv1pLpqt9eh"
+      ],
+      "releaseDate": [
+        "2018-06-25",
+        "2019-03-03",
+        "2017-06-30"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/e75f1db68bd67d2a49849a9bd10cc1eea161146e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/1af17a684e44fc93f2a1ea3ad78869cc7fcda460?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/d0240bf03a3d119d3083ed9f4b58f360f7293cd7?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        19,
+        15,
+        3
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/75c5e60e0721246e43444cce47ce550bfbd55d06",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/59bda959c0a4c0606effbc4329fc855bdbd620f9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9a6d2b478c534c29c44054bd31acef0f753c3098",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Taip Toli",
+        "Taip Toli (Op! Remix)",
+        "Save Me"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Ka5DzPpuW1m7dKONne0mi"
+      },
+      "followers": {
+        "href": null,
+        "total": 16
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/7Ka5DzPpuW1m7dKONne0mi",
+      "id": "7Ka5DzPpuW1m7dKONne0mi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/879f21459186a1edf7c100e709207367906ca133",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/395fa631add53a6e36fc60f950f1cec7af99ebf4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e18b7b580e1b84c8e7e36b37eb7f892923511608",
+          "width": 64
+        }
+      ],
+      "name": "Petras Daunys",
+      "popularity": 3,
+      "type": "artist",
+      "uri": "spotify:artist:7Ka5DzPpuW1m7dKONne0mi",
+      "popularSong": [
+        "Aurora",
+        "Baby (Tau vienai)",
+        "Mylėk, kol dar gali"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1rLRmxhSkwYXiXrftDhgaF",
+        "https://open.spotify.com/album/17UWx9CmcM8jocJorNpoDp",
+        "https://open.spotify.com/album/1hNrjLvjP582eU8KEFOcoR"
+      ],
+      "releaseDate": [
+        "2019-03-05",
+        "2019-03-01",
+        "2019-03-04"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/7a473563dff92802e57179f3e4a4047418f7071e?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a1f7d2729c86a7abbbff83b56c768837b5f3d2a3?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/539f5b9df1ce97e33e14ef468ad555e68cfb7f34?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        7,
+        6,
+        1
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e18b7b580e1b84c8e7e36b37eb7f892923511608",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f5b34372a5d92f7b93c6c627e1140f2503bd43cd",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f0435e93afc8fa8f18abe00e928a84197d203736",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Aurora",
+        "Baby (Tau vienai)",
+        "Mylėk, kol dar gali"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/76sJRuNB1ltysTqzilR0J9"
+      },
+      "followers": {
+        "href": null,
+        "total": 36
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/76sJRuNB1ltysTqzilR0J9",
+      "id": "76sJRuNB1ltysTqzilR0J9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cf72193781df021b71396cc1cf58b7fe9d5ba105",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a94bddbb0a0c5a427bb268bb5c71749cc7dd14b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/834a79070a0eb1e733658bedf81bd09a7ff1b70a",
+          "width": 64
+        }
+      ],
+      "name": "Auris",
+      "popularity": 1,
+      "type": "artist",
+      "uri": "spotify:artist:76sJRuNB1ltysTqzilR0J9",
+      "popularSong": [
+        "I Need You - Original Mix",
+        "Mano Rojus",
+        "Sázka"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/7JXzeUBjgIwLfQQuWPcoDQ",
+        "https://open.spotify.com/album/2B7Z4yg9doHp69qVlZmlDL",
+        "https://open.spotify.com/album/5p9uIJ4eZYzexcKXJ5Y31R"
+      ],
+      "releaseDate": [
+        "2013-04-15",
+        "2018-09-13",
+        "1999-11-22"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/3832a225843f05ae2a32989dad9c29808666b3be?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/506be15213fa2349ecebfd6267af3e829ba4e8b7?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/678b5e23562fa498085a191d3d7df59739162f92?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        5,
+        1,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c2f67024088a0c6a865a14251b24658d04df75cb",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/834a79070a0eb1e733658bedf81bd09a7ff1b70a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dad4d33fc5d2b18302a4b2fa15bfca9bece9138c",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Heaven Sound Sessions Vol.3",
+        "Mano Rojus",
+        "Zlatý Potlach"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "compilation"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2dwjf6dknBbrvCRs7YWrKO"
+      },
+      "followers": {
+        "href": null,
+        "total": 4
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2dwjf6dknBbrvCRs7YWrKO",
+      "id": "2dwjf6dknBbrvCRs7YWrKO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f88698ea51269b19429d7871f6b1e1f8b1b1c8a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1677213acf2ecc5cb20c81a439369cdc06f2478a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/29bd9b3efe4c787564bbf7e9e3796bb9407d0f2d",
+          "width": 64
+        }
+      ],
+      "name": "Lainius",
+      "popularity": 4,
+      "type": "artist",
+      "uri": "spotify:artist:2dwjf6dknBbrvCRs7YWrKO",
+      "popularSong": [
+        "Atsiprašau",
+        "Saulele, Motule",
+        "Atsiprašau - Original 1991 version"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0OskxUAM5XWAKLf5r5D2Yj",
+        "https://open.spotify.com/album/0xLHDBbhpujnATgjixSQu0",
+        "https://open.spotify.com/album/0OskxUAM5XWAKLf5r5D2Yj"
+      ],
+      "releaseDate": [
+        "2012-01-30",
+        "2018-08-02",
+        "2012-01-30"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/742dcc96c968ed26b5fdeabdd58b0ec8867446e4?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/c87f4a6bd29a16f71393d109de3f40752a245630?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/548467b42b9db0a091e40db33e62b08cf5a276c5?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        5,
+        4,
+        3
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/29bd9b3efe4c787564bbf7e9e3796bb9407d0f2d",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/76388b96563d399d93c0313e26e901746ab67fe3",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/29bd9b3efe4c787564bbf7e9e3796bb9407d0f2d",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Širdis",
+        "Patrimpas",
+        "Širdis"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3sVVPgqkajvcOSTiwqHWzN"
+      },
+      "followers": {
+        "href": null,
+        "total": 4
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3sVVPgqkajvcOSTiwqHWzN",
+      "id": "3sVVPgqkajvcOSTiwqHWzN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d5f8ea1c6553cd5c4e1bc47d65aa4e52e924a118",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/102d7d156c143385cfae4546d51e61e75b453aee",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2f9c5984fa890479d67cd890b71bb2596d56f5b7",
+          "width": 64
+        }
+      ],
+      "name": "Netyla",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:3sVVPgqkajvcOSTiwqHWzN",
+      "popularSong": [
+        "Praregėjimo Regis",
+        "Kvailių Motina",
+        "Kalėdos Širdyje"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/4pKP9IAzpJsDyAzNyutk5H",
+        "https://open.spotify.com/album/4pKP9IAzpJsDyAzNyutk5H",
+        "https://open.spotify.com/album/4pKP9IAzpJsDyAzNyutk5H"
+      ],
+      "releaseDate": [
+        "2018-08-21",
+        "2018-08-21",
+        "2018-08-21"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/fbf4eee6ceb7cae945f6daeeed2eb5d9b1c9a4ae?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/0a8218dae7d9fc3a8d9932889720278ce6b59dad?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/9f95ba9c744c4fe72546962e689abba0873cffab?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2f9c5984fa890479d67cd890b71bb2596d56f5b7",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2f9c5984fa890479d67cd890b71bb2596d56f5b7",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2f9c5984fa890479d67cd890b71bb2596d56f5b7",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Netyla",
+        "Netyla",
+        "Netyla"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6iH8NGYWv361oV64l79SW4"
+      },
+      "followers": {
+        "href": null,
+        "total": 15
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6iH8NGYWv361oV64l79SW4",
+      "id": "6iH8NGYWv361oV64l79SW4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f6e43a8bfe162404e474c62798be608cd50189cb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/4cb3230d48b96696bd66324b8a224be89be5946b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/599bdaed180e6c6f0b99e1fe8590aa922cca6318",
+          "width": 160
+        }
+      ],
+      "name": "Jonatanas Kazlauskas",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:6iH8NGYWv361oV64l79SW4",
+      "popularSong": [
+        "Memories",
+        "Love Song Nr.5",
+        "Our Little Box"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/3YHQAbuozlKcoM67ly84qs",
+        "https://open.spotify.com/album/6xJlu4bVbBHdLXTpQLkaMt",
+        "https://open.spotify.com/album/46JcRhlq65MvLiFZ75EHEG"
+      ],
+      "releaseDate": [
+        "2018-09-01",
+        "2018-09-01",
+        "2018-09-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/5071edaacee290ce3916b2aa7772a05cce381b0b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/1201cb91f9124dd491fc7b6272ad97f945163a4a?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/f67d8278a999d85763c3ae073c91e9814ab877c2?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e131bda238ad6c2a2ce722a28ffbf78a76811e4e",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e131bda238ad6c2a2ce722a28ffbf78a76811e4e",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e131bda238ad6c2a2ce722a28ffbf78a76811e4e",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Memories",
+        "Love Song Nr.5",
+        "Our Little Box"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1YjLJ0XiGKPwrBQdQVoyj5"
+      },
+      "followers": {
+        "href": null,
+        "total": 166
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1YjLJ0XiGKPwrBQdQVoyj5",
+      "id": "1YjLJ0XiGKPwrBQdQVoyj5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c536cdcdc86db63f2827ef36dfa6117fce5fac81",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/cf69ff92964ab0493ae9bddb4d36df5902de61b5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b3c8f0ea42cbd480e4a8213473e08aa609aecef6",
+          "width": 160
+        }
+      ],
+      "name": "Vitalijus Špokaitis",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:1YjLJ0XiGKPwrBQdQVoyj5",
+      "popularSong": [
+        "Reikia",
+        "Trūksta Laiko",
+        "Savigrauža"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2GfUrw3o2ECs6xF7m7O5Fl",
+        "https://open.spotify.com/album/2GfUrw3o2ECs6xF7m7O5Fl",
+        "https://open.spotify.com/album/2GfUrw3o2ECs6xF7m7O5Fl"
+      ],
+      "releaseDate": [
+        "2019-02-18",
+        "2019-02-18",
+        "2019-02-18"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/5789fb2be94780f23633821f1959da512a7869e4?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/1389717658912f29575763941d78b7e656fcea87?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/368664e8504432f9629c96f4c5dd9e7818c22045?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        16,
+        14,
+        14
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f1e48358b405e767b3986155531fe162976fe855",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f1e48358b405e767b3986155531fe162976fe855",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f1e48358b405e767b3986155531fe162976fe855",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Geras Žmogus",
+        "Geras Žmogus",
+        "Geras Žmogus"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6cm1CsQekzXs6vZdCaNdqu"
+      },
+      "followers": {
+        "href": null,
+        "total": 2
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6cm1CsQekzXs6vZdCaNdqu",
+      "id": "6cm1CsQekzXs6vZdCaNdqu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cf72193781df021b71396cc1cf58b7fe9d5ba105",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a94bddbb0a0c5a427bb268bb5c71749cc7dd14b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/834a79070a0eb1e733658bedf81bd09a7ff1b70a",
+          "width": 64
+        }
+      ],
+      "name": "Kuli",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:6cm1CsQekzXs6vZdCaNdqu",
+      "popularSong": [
+        "Pukka Tingz",
+        "Mano Rojus",
+        "Wishes"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/7yx4srb5218KO7UXRbnB8z",
+        "https://open.spotify.com/album/2B7Z4yg9doHp69qVlZmlDL",
+        "https://open.spotify.com/album/1wAoRD8mLH8XXytOYk40ee"
+      ],
+      "releaseDate": [
+        "2002-01-01",
+        "2018-09-13",
+        "2019-01-04"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/7e4551eb346e760859fa754dc659b01423d5ada6?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/506be15213fa2349ecebfd6267af3e829ba4e8b7?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/423f53b26e09243fe975da4e5bf0f7b2cbcf029b?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        2,
+        1,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a218e3c39e94a9e2f39154d9eb8f8348a551b81a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/834a79070a0eb1e733658bedf81bd09a7ff1b70a",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/65b38904187bd1ec816117969d608339e256d9ee",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Virsa",
+        "Mano Rojus",
+        "Wishes"
+      ],
+      "albumType": [
+        "album",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/42Cw5LbNnP3j73yzcmkXKT"
+      },
+      "followers": {
+        "href": null,
+        "total": 18
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/42Cw5LbNnP3j73yzcmkXKT",
+      "id": "42Cw5LbNnP3j73yzcmkXKT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/975315d865304464fddc979e2d4719453ac0f8dc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b3a5d15786ff09e92d69ba27fd3471f0f811897b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/338d92cf10582b67480bc17438e79050c766785b",
+          "width": 64
+        }
+      ],
+      "name": "Rokas Povilius",
+      "popularity": 3,
+      "type": "artist",
+      "uri": "spotify:artist:42Cw5LbNnP3j73yzcmkXKT",
+      "popularSong": [
+        "Kamerūnas",
+        "Five Meters",
+        "Ne Su Tavim"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/738dA5JswLaAS6ESntEsMQ",
+        "https://open.spotify.com/album/738dA5JswLaAS6ESntEsMQ",
+        "https://open.spotify.com/album/3vVs71DOKSV3FuBJzKBCj6"
+      ],
+      "releaseDate": [
+        "2019-01-09",
+        "2019-01-09",
+        "2018-12-09"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/60aca17a1c0205094f223f2653f2215eabd113c5?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/cfe5a4154221e7b1c0382186120be98b001fbe9d?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/62cbdcae686a46070194042f005d7db42888650a?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        8,
+        2,
+        1
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/338d92cf10582b67480bc17438e79050c766785b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/338d92cf10582b67480bc17438e79050c766785b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/888e1a70615c005e87737a062625de8497209dba",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Žemyn Ir Kitos Tavo Vietos",
+        "Žemyn Ir Kitos Tavo Vietos",
+        "Ne Su Tavim"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5qPt9ngs6DFr0Mxb4jqWPe"
+      },
+      "followers": {
+        "href": null,
+        "total": 8
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5qPt9ngs6DFr0Mxb4jqWPe",
+      "id": "5qPt9ngs6DFr0Mxb4jqWPe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d5891d158b6b6f014a8097088b9c1d7afe208755",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e41248c7ffb318352293241c7fb25725948bebf8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ca2c6c0c4f95cf2ea745c33de89ed72ce32c7448",
+          "width": 64
+        }
+      ],
+      "name": "Twosome",
+      "popularity": 2,
+      "type": "artist",
+      "uri": "spotify:artist:5qPt9ngs6DFr0Mxb4jqWPe",
+      "popularSong": [
+        "1000",
+        "Hello",
+        "Flamingo"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1IQ3A4RuMu3Ei9M3TGrPmZ",
+        "https://open.spotify.com/album/7um1tCz419H9W3gSSJQTYP",
+        "https://open.spotify.com/album/6VpWMv4zoMgJMFLkJMiNVQ"
+      ],
+      "releaseDate": [
+        "2019-01-05",
+        "2018-01-20",
+        "2018-02-10"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/8e21194e4badd1009eaab8ecf7328cbb73627120?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/10bfeb8a1f6eddf70d98664ba1d98e04ecc9048b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b2f34ccf8977bf504bbf4f451ccdc1a537f042bc?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        10,
+        1,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ca2c6c0c4f95cf2ea745c33de89ed72ce32c7448",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d6578b3f3d3da98ab4625c6e79e57445cdbbb671",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/72edcdda7c65e56aea304b2bc7f12c7803be451a",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "1000",
+        "Hello",
+        "Flamingo"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ATnfQB8lyE8IRHYv6njht"
+      },
+      "followers": {
+        "href": null,
+        "total": 21
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6ATnfQB8lyE8IRHYv6njht",
+      "id": "6ATnfQB8lyE8IRHYv6njht",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1035d0ec7d76d24d986a77378db5c24b67e6bfaa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c710f45a358469703135ba0cd797fb9a354c4bcb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3162e4370828afdc00ad3bf4558dcb83c36617dd",
+          "width": 64
+        }
+      ],
+      "name": "Filtered Tools",
+      "popularity": 3,
+      "type": "artist",
+      "uri": "spotify:artist:6ATnfQB8lyE8IRHYv6njht",
+      "popularSong": [
+        "Survival"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0fmktoZhe21C5PfbaiEeDg"
+      ],
+      "releaseDate": [
+        "2019-01-08"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/4367012efd2c7f169667f7be493b204485871d39?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        12
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3162e4370828afdc00ad3bf4558dcb83c36617dd",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Survival"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XgZ8U5jH9xLfZky7dVYkf"
+      },
+      "followers": {
+        "href": null,
+        "total": 2010
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6XgZ8U5jH9xLfZky7dVYkf",
+      "id": "6XgZ8U5jH9xLfZky7dVYkf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8d464e3e71a030096f43de06586ea582a672e880",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/df884357231b3c64fb89abf534066f86ad0adfed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/76f84637f3e7fa24f26d194f9c3e3cfeb9fd8763",
+          "width": 64
+        }
+      ],
+      "name": "lemon joy",
+      "popularity": 29,
+      "type": "artist",
+      "uri": "spotify:artist:6XgZ8U5jH9xLfZky7dVYkf",
+      "popularSong": [
+        "Be atšvaitų",
+        "Kažkada",
+        "Ylang Ylang"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/1DAXLB1sHF1IHV69qKqN1e",
+        "https://open.spotify.com/album/7vPhM3w62DySEwbcndsnFv",
+        "https://open.spotify.com/album/1DAXLB1sHF1IHV69qKqN1e"
+      ],
+      "releaseDate": [
+        "2016-11-18",
+        "2011-05-07",
+        "2016-11-18"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/ed8c07e9a3a74c3c1bdaf0124ea12c61dd39a494?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/df5bed72d8cf5a154f7794255337142eeb48edf1?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/7fb8add2cb0294dde872e71b15a9e674847ad583?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        32,
+        31,
+        21
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/76f84637f3e7fa24f26d194f9c3e3cfeb9fd8763",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f70610833af13aaedbbc5153c0f6969184cd8924",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/76f84637f3e7fa24f26d194f9c3e3cfeb9fd8763",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Willkommen",
+        "Stebuklas",
+        "Willkommen"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6bsK4sz7xzuBW6tNGCZHed"
+      },
+      "followers": {
+        "href": null,
+        "total": 77
+      },
+      "genres": [
+        "lithuanian indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6bsK4sz7xzuBW6tNGCZHed",
+      "id": "6bsK4sz7xzuBW6tNGCZHed",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3b6701fab817ef4338f5d8c53ebbadc8fac063ad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/61fec3a1826ce88c9a12b13a35d1d4be0779f0b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2351e3319ff4cf4fc7e542d2ff483cbc7612905",
+          "width": 64
+        }
+      ],
+      "name": "Saulius Spindi",
+      "popularity": 5,
+      "type": "artist",
+      "uri": "spotify:artist:6bsK4sz7xzuBW6tNGCZHed",
+      "popularSong": [
+        "Lekia Gandrai",
+        "Vai Tu Rūta Rūta",
+        "Augo Sode Klevelis, Klevelis"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/12AQh0D15tfK71DFFYgeJo",
+        "https://open.spotify.com/album/1tI0x7PJFf7L2yh4lm4Caw",
+        "https://open.spotify.com/album/1tI0x7PJFf7L2yh4lm4Caw"
+      ],
+      "releaseDate": [
+        "2018-03-28",
+        "2017-12-01",
+        "2017-12-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/3ad5d0cd872fa06b062971e5b56eb849d93574b2?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/3e69f42140fe92c3b10d310be901840f9aab2b7f?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/c31f897f5253b4412e45932e9c05b0d70bce4e39?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        5,
+        4,
+        4
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9f3d5a53e10b9ef66bc2f628972b6e255c015bd8",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2351e3319ff4cf4fc7e542d2ff483cbc7612905",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2351e3319ff4cf4fc7e542d2ff483cbc7612905",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Lekia Gandrai",
+        "Vai Tu Girala",
+        "Vai Tu Girala"
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0s1dSEjjHtQyxxL2dUYWbz"
+      },
+      "followers": {
+        "href": null,
+        "total": 2881
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0s1dSEjjHtQyxxL2dUYWbz",
+      "id": "0s1dSEjjHtQyxxL2dUYWbz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/61fbd952f2787eab7e71fca9361d2e36d96a965c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/e00d21ee3fd6490ec36bd302f4ea4a2f53c88eab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/fefbe1bfa566d07fa01ec1ecc437326706907a65",
+          "width": 160
+        }
+      ],
+      "name": "Baltasis Kiras",
+      "popularity": 21,
+      "type": "artist",
+      "uri": "spotify:artist:0s1dSEjjHtQyxxL2dUYWbz",
+      "popularSong": [
+        "Lūpytės",
+        "Vasaros Vejai",
+        "Mano Draugai"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/15YBYVhNar9lY5QIwQHpwB",
+        "https://open.spotify.com/album/6YvwedSYklv8AUdRJ5qKCL",
+        "https://open.spotify.com/album/3SZe2sFIA2unbCGK9g9nHD"
+      ],
+      "releaseDate": [
+        "2014-03-20",
+        "2018-07-09",
+        "2018-06-06"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/815a2f4db0857ce9cdada47925b1503b1e1c32ce?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/454b89c18582f8bbd677b067aa783649b8754503?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/ba7f9ffa45e6a3a496d35b148b4c971bad54f69b?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        29,
+        22,
+        21
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/38356e13f9c449e2b8fc0c178d7b962f3c0e29fe",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/433bbefeeb49011ff9580901c1f6da4933b2e879",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6965a6bd85b7b31db395dfc5a835f7fcb34a91f1",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Amerika",
+        "Vasaros Vejai",
+        "Mano Draugai"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5UPvQPb3tYYy0kxZeR4uvH"
+      },
+      "followers": {
+        "href": null,
+        "total": 8
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5UPvQPb3tYYy0kxZeR4uvH",
+      "id": "5UPvQPb3tYYy0kxZeR4uvH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3a0e77f0641934d72552c0fe34151fa0cfc0e7c4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/c40691d80512bf96fca57865c3e28e78edb5c8fb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/de60cf484c878d186b79f1454e9b8e5482ebd175",
+          "width": 160
+        }
+      ],
+      "name": "Maart Laus",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:5UPvQPb3tYYy0kxZeR4uvH",
+      "popularSong": [
+        "Push It, My Love",
+        "Sunglasses at Night",
+        "True"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/0H0NStwuJZOt27YguEWqUD",
+        "https://open.spotify.com/album/5WV05E0naQMO3uXb2bFp1R",
+        "https://open.spotify.com/album/7nEStuilZumGA3A3SS7KSm"
+      ],
+      "releaseDate": [
+        "2018-11-05",
+        "2017-08-12",
+        "2018-12-14"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/6526f5ed473073471cd2b6e9e9182e1719697001?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/bc9ac22308274e5e3dbbdf653573fe1c21b685fe?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b03ede5dbf72f6c8abba386ffe9bbbac480e8cea?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        1,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7b55c547b6950637a40831bdf2df3c324ada899b",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7855ea9523f3f4545da4bc1a65cfc4a6a79ba699",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7d3f7a8c2bd3653deb2f83600c9a9bd5d9047648",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Push It, My Love",
+        "DOT. You Have To Start From Somewhere",
+        "True"
+      ],
+      "albumType": [
+        "single",
+        "album",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7HtUa8sHRalTJFKmJeIBPW"
+      },
+      "followers": {
+        "href": null,
+        "total": 17
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/7HtUa8sHRalTJFKmJeIBPW",
+      "id": "7HtUa8sHRalTJFKmJeIBPW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2162749164748ef44ac656e03c1e65721d08077d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/73e570f244ebc8cc4ec940cf46aee512849a0d2e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/755042859abc84f3783dd6f700a98dd024f0cace",
+          "width": 160
+        }
+      ],
+      "name": "ABrokenLeg",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:7HtUa8sHRalTJFKmJeIBPW",
+      "popularSong": [
+        "Pagirios"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/4qcHl2gE9fFU81UERlZj4s"
+      ],
+      "releaseDate": [
+        "2017-03-22"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/45e4fc077c148db06791efc15464401d0e46c532?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        1
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8fc4caf216500270a53e368d947feea1cc1a1b16",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Pagirios"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7LMlaqzutxVEEEung8DPbE"
+      },
+      "followers": {
+        "href": null,
+        "total": 1304
+      },
+      "genres": [
+        "lithuanian indie",
+        "lithuanian pop",
+        "sung poetry"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7LMlaqzutxVEEEung8DPbE",
+      "id": "7LMlaqzutxVEEEung8DPbE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e0bc37133bcd06ebfd0846d924257511445deae1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/3c959fd22b35d2b72a0d465a7a9edbccc6dbf3d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/f75223e867e0a8606f363a40c0e83fba3f5caac5",
+          "width": 160
+        }
+      ],
+      "name": "Alina Orlova",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:7LMlaqzutxVEEEung8DPbE",
+      "popularSong": [
+        "Mėnulis",
+        "Lijo",
+        "Ramuma"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/7EyUP4lfFxQlnYG5Wnph0p",
+        "https://open.spotify.com/album/7EyUP4lfFxQlnYG5Wnph0p",
+        "https://open.spotify.com/album/7EyUP4lfFxQlnYG5Wnph0p"
+      ],
+      "releaseDate": [
+        "2008-01-22",
+        "2008-01-22",
+        "2008-01-22"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/fb7250905105a8a2383630453eef9cd9d0d9aa80?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/29662f47e422b4ba2dd96a0466a674055879df3c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/157422e6135c9306b29d5320ada8ff755186b1b7?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        30,
+        29,
+        26
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501ff09818d35467bf2d98bb775",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501ff09818d35467bf2d98bb775",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501ff09818d35467bf2d98bb775",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Laukinis šuo dingo",
+        "Laukinis šuo dingo",
+        "Laukinis šuo dingo"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2rXSg4vSe7ictmjeCxVFWd"
+      },
+      "followers": {
+        "href": null,
+        "total": 390
+      },
+      "genres": [
+        "lithuanian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2rXSg4vSe7ictmjeCxVFWd",
+      "id": "2rXSg4vSe7ictmjeCxVFWd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/754a678518ceda722b0b6b561d950aad222ce206",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/bc61c268b8c9af8d0835e87cb744b15bd8132df1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/e0a8e0ea1f016100a309e1da8a54a4aa687b8523",
+          "width": 160
+        }
+      ],
+      "name": "Kazimieras Likša",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:2rXSg4vSe7ictmjeCxVFWd",
+      "popularSong": [
+        "Per pusę",
+        "Praeities Aidas",
+        "Mieloji, Tai Tu"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2JgRkmgFCgJocoz4sBJHhV",
+        "https://open.spotify.com/album/1aMDRthsIA26YI7CaWwP3b",
+        "https://open.spotify.com/album/1aMDRthsIA26YI7CaWwP3b"
+      ],
+      "releaseDate": [
+        "2017",
+        "2019-03-07",
+        "2019-03-07"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/8e83e3d4f71e321662be91b49f94d192232b5a50?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/a9d92db2a39a30f725d6c6086e9ab3eccaf3562c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/691cbf521a4ca54eb39ae8f374c56e98b3eb75e8?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        17,
+        17,
+        16
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f22ee304498213506ab4dcb2199a6b5fcdb9fc00",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2519773e3fb78037202d54f56f791178c1901e3e",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2519773e3fb78037202d54f56f791178c1901e3e",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Per Pusę",
+        "Tavo Mylimiausia Daina",
+        "Tavo Mylimiausia Daina"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1GwXueDGL7SWmcDtV98GYX"
+      },
+      "followers": {
+        "href": null,
+        "total": 1
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/1GwXueDGL7SWmcDtV98GYX",
+      "id": "1GwXueDGL7SWmcDtV98GYX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a7bd7801f5e006491492bf46fc6b162facc14dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/72de36bac35d59da0b3cf23b033bc7dd8ac2c014",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2a333c66c891c5d241bbab3d1b96767e8973898",
+          "width": 64
+        }
+      ],
+      "name": "Martynas Beinaris",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:1GwXueDGL7SWmcDtV98GYX",
+      "popularSong": [
+        "Kai Laukiu Aš Kalėdų"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/47hjZ1aBopKIhGceziCFeE"
+      ],
+      "releaseDate": [
+        "2018-12-03"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/0938c86e925db1426cd8e10c6a18a4c951a67a96?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2a333c66c891c5d241bbab3d1b96767e8973898",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Kai Laukiu Aš Kalėdų"
+      ],
+      "albumType": [
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Jkfuk61suyjYoQ1juhzUh"
+      },
+      "followers": {
+        "href": null,
+        "total": 19
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/1Jkfuk61suyjYoQ1juhzUh",
+      "id": "1Jkfuk61suyjYoQ1juhzUh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5503629f6c7acdf60de94e7ff3c8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/77eb7c17cafe55023af0d8c247a93dbfdfe4360b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe55019667b5054afe269799b4f9f9",
+          "width": 64
+        }
+      ],
+      "name": "Gabrielė Gvazdikaitė Ir Grupė",
+      "popularity": 2,
+      "type": "artist",
+      "uri": "spotify:artist:1Jkfuk61suyjYoQ1juhzUh",
+      "popularSong": [
+        "Nors Rūpinies Ir Nerimauji",
+        "Nieks Jokiais Būdais",
+        "Druska"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6BaVWsHTLIDb5JSQAZo1LE",
+        "https://open.spotify.com/album/6BaVWsHTLIDb5JSQAZo1LE",
+        "https://open.spotify.com/album/6BaVWsHTLIDb5JSQAZo1LE"
+      ],
+      "releaseDate": [
+        "2018-12-01",
+        "2018-12-01",
+        "2018-12-01"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/5922f5f6f2c235bda67f3833335448a891d28039?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/b4e4da87ecfa6b58e2a63906697baa60b0b8728c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/bd3310578165d68a38c1ee8ec2a0a54c120c0995?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        2,
+        1,
+        1
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe55019667b5054afe269799b4f9f9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe55019667b5054afe269799b4f9f9",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe55019667b5054afe269799b4f9f9",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Ateitis Su Viltimi",
+        "Ateitis Su Viltimi",
+        "Ateitis Su Viltimi"
+      ],
+      "albumType": [
+        "album",
+        "album",
+        "album"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AhcQ2wvNWLazwiUQN2rB2"
+      },
+      "followers": {
+        "href": null,
+        "total": 13
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3AhcQ2wvNWLazwiUQN2rB2",
+      "id": "3AhcQ2wvNWLazwiUQN2rB2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/68e9db4cbbc9764a0bb3749641ccddda34d902de",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6bb67629aab721fddbc46ba8ca793d70b75563e0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3196446c06f4e95257c97574b9fb4355c885e66e",
+          "width": 64
+        }
+      ],
+      "name": "Dzouns",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:3AhcQ2wvNWLazwiUQN2rB2",
+      "popularSong": [
+        "Auu",
+        "Parachute",
+        "Sunrise Shadows"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/6JmEjaBkYmUujtBQk7kAj3",
+        "https://open.spotify.com/album/5UDwtQNqCa6EwU9w5acwsg",
+        "https://open.spotify.com/album/0wXAOfbkYTCbCtNvdSvhzG"
+      ],
+      "releaseDate": [
+        "2018-10-18",
+        "2017-07-13",
+        "2016-12-12"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/e7bab2d017f50e234aa91d82ea71d2a13749aa1b?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/5766e51f43de195e622b48a802d71cec4d0e970c?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/e02f67ee6692d37b5f79fd5ebc53846377402479?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        2,
+        1,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3196446c06f4e95257c97574b9fb4355c885e66e",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d6f25e2ce154376e104a5ddf9c3b73e939935c62",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ed01bdec4ae120f302db11b6582df1150272c2cc",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "Auu",
+        "Parachute",
+        "Dirty Shadows"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3lnKdUnt3ThARebgPrEf2K"
+      },
+      "followers": {
+        "href": null,
+        "total": 19
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3lnKdUnt3ThARebgPrEf2K",
+      "id": "3lnKdUnt3ThARebgPrEf2K",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b714c96ddcaac8fb1ae764aa1a36953aa088d3a4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/e863b6fd90a453c8bd7fd1d1334ea852d0e81be8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/2a74bc967a6be41d00402a5aa095e8e90b42ae4e",
+          "width": 160
+        }
+      ],
+      "name": "Matas Ligeika",
+      "popularity": 3,
+      "type": "artist",
+      "uri": "spotify:artist:3lnKdUnt3ThARebgPrEf2K",
+      "popularSong": [
+        "You Came Here to Fly",
+        "All Alone",
+        "You Came Here to Fly - Acoustic Version"
+      ],
+      "albumLink": [
+        "https://open.spotify.com/album/2VyuNURXhoKMxXIDKHK38K",
+        "https://open.spotify.com/album/55d2DhntyWUOScBAUHpCSe",
+        "https://open.spotify.com/album/7Csn4boi1NmmFiXzftihUL"
+      ],
+      "releaseDate": [
+        "2018-12-21",
+        "2017-09-07",
+        "2019-01-18"
+      ],
+      "previewSong": [
+        "https://p.scdn.co/mp3-preview/b660880beccdc7d61d3a79b99a69d1c2349db433?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/59a5566cf0806dcfcedd896e6a33a8797f0b8f97?cid=1fe4184390044d7c832605c6faf9e5d5",
+        "https://p.scdn.co/mp3-preview/cbdc330119c8a2755274fa3c59217e55cd412a1a?cid=1fe4184390044d7c832605c6faf9e5d5"
+      ],
+      "popularityOfSong": [
+        11,
+        0,
+        0
+      ],
+      "albumImage": [
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/afcbda6c8a26516bf7510c0d3a3a722ccdd44105",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/85d43bc0b3d7cd596783712fb87c8916883faf55",
+          "width": 64
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8a53049737642f288e6da59538ca0bd866f77a3f",
+          "width": 64
+        }
+      ],
+      "albumName": [
+        "You Came Here to Fly",
+        "All Alone",
+        "You Came Here to Fly (Acoustic Version)"
+      ],
+      "albumType": [
+        "single",
+        "single",
+        "single"
+      ]
+    }
+  ]
+}

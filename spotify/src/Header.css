@@ -1,0 +1,240 @@
+header{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    font-weight: 100;
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
+header span{
+    font-size: 55px;
+    position: relative;
+}
+.demo{
+    font-size: 12px;
+    position: absolute;
+    top: 8px;
+    right: -18px;
+    /*border: 1px solid #7afda4;*/
+    color: #7afca4;
+}
+header .fa-spotify{
+    margin-right: 3px;
+    margin-left: 10px;
+}
+div.icon{
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link-icon, .search-icon{
+    height: 125px;
+}
+.play-icon{
+    height: 95px;
+}
+.card{
+    background: #b5b5b5;
+    width: 400px;
+    font-size: 14px;
+    padding-bottom: 5px;
+    box-shadow: 0px 0px 33px -14px rgba(0,0,0,0.75);
+    transition: all .3s;
+    padding: 32px;
+    font-weight: 300;
+    backface-visibility: hidden;
+}
+.card:hover{
+    transform: scale(1.1);
+    
+    background: #aaaaaa;
+}
+.card:nth-of-type(1){
+    background-image: linear-gradient(45deg, #948586 0%, #fad0c4 99%, #fad0c4 100%);
+    background: #a97da4;
+}
+.card:nth-of-type(2){
+    margin-left: 20px;
+    margin-right: 20px;
+    background-image: linear-gradient(to top, #aba9af 0%, #efbfe1 100%);
+    background: #748fb0;
+}
+.card:nth-of-type(3){
+    background-image: linear-gradient(120deg, #bed291 0%, #6c8870 100%);
+    background-image: linear-gradient(120deg, #c7daa0 0%, #619a69 100%);
+    background: #71a79a;
+}
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+main h3{
+    font-size: 25px;
+    font-weight: 200;
+}
+.icon{
+   
+    font-size: 50px;
+}
+.fa-star{
+    color: gold;
+}
+.fa-search{
+    color: #cc9994;
+}
+.fa-edit{
+    color: #bebef5;
+}
+
+.sendArtist{
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+    background:#343638;
+    padding: 2px;
+}
+.sendArtist a{
+    color: #c7daa0;
+}
+.form input{
+    width: 80%;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 25px;
+    background: #757575;
+    
+}
+.label{
+    width: 100%;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    padding-left: 8px;
+    border-radius: 19px 19px 0px 0px;
+}
+.label p{
+    color: #7afda4;
+    
+}
+.form{
+    display: flex;
+    width: 80%;
+    background: #757575;
+}
+
+.artistImage{
+    max-width: 30%;
+    
+}
+
+
+/*background: linear-gradient(to bottom, rgba(255, 255, 255, 0.26) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255, 255, 255, 0.4) 0%, rgba(0, 0, 0, 0.21) 120%) #98989800;*/
+/*}*/
+
+/*puurpleee*/
+/*background-image: linear-gradient(45deg, #948586 0%, #fad0c4 99%, #fad0c4 100%);*/
+
+/*background-image: linear-gradient(to top, #aba9af 0%, #efbfe1 100%);*/
+/*background-image: linear-gradient(120deg, #bed291 0%, #6c8870 100%);*/
+@media (min-width: 1100px){
+    header{
+        width: 1237px;
+        margin: 15px auto; 
+    }
+}
+@media (max-width: 680px){
+    header{
+    justify-content: center;
+    margin-left: 0;
+    font-size: 20px;
+    margin-top: 5px;
+    }
+    header .fa-spotify{
+        margin-left: 4px;
+    }
+    header span{
+        font-size: 50px;
+    }
+    main{
+        width: 100%;
+    }
+    .card{
+    max-width: 33.3%;
+    padding: 18px;
+    font-size: 10px;
+    pointer-events: none;
+    }
+    .card h3{
+        font-size: 17px;
+    }
+    div.icon{
+        height: 119px;
+    }
+    .search-icon{
+        height: 100px;
+    }
+    .play-icon{
+        height: 80px;
+    }
+.card:nth-of-type(2){
+    margin: 0 auto;
+}
+    .card .icon{
+        font-size: 35px;
+    }
+ 
+    .sendArtist{
+        width: 85%;
+    }
+    
+}
+
+
+
+@media (max-width: 450px){
+    
+    header{
+        font-size: 14px;
+    }
+    header span{
+        font-size: 43px;
+    }
+    .demo{
+        top: 2px;
+    right: -22px;
+    }
+    .sendArtist{
+        width: 70%;
+        font-size: 11px;
+    }
+    
+    
+    .link-icon, .search-icon{
+        height: 70px;
+    }
+    .play-icon{
+        height: 48px;
+    }
+    .card h3{
+        font-size: 12px;
+    }
+    .card{
+        padding: 6px;
+    }
+    
+    
+
+}
+
+
+/*background: #a97da4;*/
+/*background: #748fb0;*/
+/*background: #71a79a;*/

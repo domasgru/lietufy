@@ -1,0 +1,149 @@
+.chartNav{
+  background-image: linear-gradient(to right, #292929,#4a484a );
+  height: 150px;
+  width: 1100px;
+  display: flex;
+}
+.chartNav .genres{
+  flex-grow: 3;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.genre{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  color: white;
+/*   background: red; */
+  height: 100px;
+  width: 130px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.genre h3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  font-weight: 300;
+}
+.genre .circle{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: #797979;
+  box-shadow: inset 0px 0px 4px 0px rgba(0,0,0,0.75);
+  transition: all .3s;
+  backface-visibility: hidden;
+}
+.chartNav .filter{
+  flex-grow: 1;  
+}
+
+
+
+/* FILTTRAS */
+.filter{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: white;
+}
+.filter .filterName{
+  margin-right: 10px;
+}
+.filter .filterName h3{
+  height: 26px;
+  font-weight: 300;
+  font-size: 14px;
+  /*margin: 12px 0;*/
+  padding-top: 5px;
+  backface-visibility: hidden;
+  cursor: pointer;
+  transition: all .3s;
+}
+.filter .filterName h3:hover{
+    color: #7afda4;
+    transform: scale(1.1);
+}
+.filter .indicator{
+  width: 30px;
+  height: 85px;
+  border-radius: 30px;
+  background: #2b2d2e;
+  margin-right: 30px;
+  cursor: pointer;
+  backface-visibility: hidden;
+/*   box-shadow: inset 0px -1px 5px 0px rgba(0,0,0,0.75); */
+}
+
+.filter .circle{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: white;
+  margin: 4px auto;
+  backface-visibility: hidden;
+  transition: all .5s ease;
+/*   box-shadow: -1px 2px 7px 0px rgba(0,0,0,0.75); */
+}
+.filterPopularity{
+    transform: translateY(24px);
+}
+.filterFollowers{
+    transform: translateY(0);
+}
+.filterActive{
+    color: #7afda4;
+}
+
+
+
+.upcoming{
+    pointer-events: none;
+    color: #a2a2a2;
+    opacity: .4;
+}
+
+
+.genre:hover .circle:not(.active){
+    background: #7afda48a;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 7px 1px, inset #7afda491 0 -1px 9px, #7afda487 0 3px 12px;
+}
+.circle.active{
+/*   background: #0ff;
+box-shadow: 0px 0px 23px 7px #0ff; */
+  background: #7afda4;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 7px 1px, inset #7afda4 0 -1px 9px, #7afda4 0 3px 12px;
+}
+
+@media (max-width: 1100px){
+    .chartNav{
+        width: 95%;
+    }
+}
+@media (max-width: 550px){
+    .genre{
+        width: 70px;
+        font-size: 11px;
+    }
+    .filter .filterName h3{
+        font-size: 9px;
+    }
+}
+@media (max-width: 420px){
+    .genre{
+        width: 47px;
+        font-size: 8px;
+    }
+    .filter .filterName{
+        margin-right: 4px;
+        margin-left: 30px;
+    }
+    .filter .filterName h3{
+        font-size: 8px;
+    }
+}
